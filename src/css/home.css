@@ -1,0 +1,17 @@
+#categories_container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px 0;
+  width: 50%;
+}
+
+.category {
+  text-decoration: none;
+  padding: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: white;
+  background-color: #74b9ff;
+  border-radius: 3px;
+  text-align: center;
+}

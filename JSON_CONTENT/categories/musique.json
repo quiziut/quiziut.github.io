@@ -1,0 +1,102 @@
+{
+  "marmelade_macklemore" : {
+    "question" : "Comment commence la chanson \"Marmelade\" de l'artiste Macklemore?",
+    "answers" : [
+      "Can’t nobody get up in my car today",
+      "Ain't nobody get up in my car today",
+      "I'm whipping Marmelade",
+      "*marmelade*"
+    ],
+    "right_answer" : 0
+  },
+  "nevermind_nirvana" : {
+    "question" : "En quelle année est sortie l'album \"Nevermind\" de Nirvana?",
+    "answers" : [
+      "2001",
+      "1988",
+      "1991",
+      "1997"
+    ],
+    "right_answer" : 2
+  },
+  "orchestre_symphomique" : {
+    "question" : "Lequel de ces instruments ne fais pas parti de l'orchestre symphonique?",
+    "answers" : [
+      "La guitarre",
+      "L'alto",
+      "Le piano",
+      "La contrebasse"
+    ],
+    "right_answer" : 0
+  },
+  "famille_instruments" : {
+    "question" : "Laquelle de ces familles d'instuments n'existe pas?",
+    "answers" : [
+      "Les bois",
+      "Les vents",
+      "Les percussions",
+      "Les cordes"
+    ],
+    "right_answer" : 0
+  },
+  "orelsan_premier" : {
+    "question" : "Quel était le nom du premier album d'Orelsan?",
+    "answers" : [
+      "Gros poisson",
+      "Le chant des sirènes",
+      "Pour le pire",
+      "Perdu d'avance"
+    ],
+    "right_answer" : 3
+  },
+  "Quel groupe à interprété \"Seven Nation Army\"?" : {
+    "question" : "En quelle année est sortie l'album \"Nevermind\" de Nirvana?",
+    "answers" : [
+      "The Clash",
+      "Pink Floyd",
+      "The White Stripes",
+      "Metallica"
+    ],
+    "right_answer" : 2
+  },
+  "nekfeu_esquimaux" : {
+    "question" : "Complétez ces paroles d'Esquimaux (Nekfeu): \"Scooter des neiges en Y,\"",
+    "answers" : [
+      "voilà les rapides",
+      "voilà l'incipit",
+      "voilà mon tipee",
+      "voilà tes habits"
+    ],
+    "right_answer" : 1
+  },
+  "cases_guitarre" : {
+    "question" : "Combien de cases possède une guitarre classique?",
+    "answers" : [
+      "20",
+      "17",
+      "24",
+      "4"
+    ],
+    "right_answer" : 0
+  },
+  "victoires_musique" : {
+    "question" : "Lequel de ces artistes est le plus primé aux victoires de la musique?",
+    "answers" : [
+      "Charles Aznavour",
+      "Matthieu Chedid aka. M",
+      "Nagui",
+      "Daniel Balavoine"
+    ],
+    "right_answer" : 1
+  },
+  "mozart_prenom" : {
+    "question" : "Quel était le prénom de Mozart?",
+    "answers" : [
+      "Hanz",
+      "Adolf",
+      "Henriz Klein",
+      "Wolfgang Amadeus"
+    ],
+    "right_answer" : 3
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "age_taig_khris" : {
+    "question" : "Quel était l'âge de Taïg Khris au 08/08/2018?",
+    "answers" : [
+      "37 ans",
+      "51 ans",
+      "43 ans",
+      "31 ans"
+    ],
+    "right_answer" : 2
+  }
+}

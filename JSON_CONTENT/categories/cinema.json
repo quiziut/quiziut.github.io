@@ -1,0 +1,12 @@
+{
+  "premier_star_wars" : {
+    "question" : "En quelle année est sorti le premier Star Wars?",
+    "answers" : [
+      "1965",
+      "1977",
+      "1983",
+      "1985"
+    ],
+    "right_answer" : 1
+  }
+}
