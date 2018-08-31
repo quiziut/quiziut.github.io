@@ -16,3 +16,9 @@
   text-align: center;
   font-size: 23px;
 }
+
+@media screen and (orientation: portrait) {
+	#categories_container {
+		width: 100%;
+	}
+}
