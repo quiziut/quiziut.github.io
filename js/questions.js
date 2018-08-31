@@ -105,7 +105,7 @@ function buildQuesion(questions) {
   } else {
     var endi = document.createElement('h2')
     endi.classList.add('question')
-    endi.innerHTML = 'Fini, score : ' + Math.round(score / keys.length * 100) + '%'
+    endi.innerHTML = 'Vous avez fini les questions pour l\'instant revenez plus tard, votre score actuel est de ' + Math.round(score / keys.length * 100) + '%'
 
     var homeLink = document.createElement('a')
     homeLink.classList.add('homeLink')
