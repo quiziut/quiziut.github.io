@@ -49,16 +49,7 @@
     ],
     "right_answer" : 3
   },
-  "Quel groupe à interprété \"Seven Nation Army\"?" : {
-    "question" : "En quelle année est sortie l'album \"Nevermind\" de Nirvana?",
-    "answers" : [
-      "The Clash",
-      "Pink Floyd",
-      "The White Stripes",
-      "Metallica"
-    ],
-    "right_answer" : 2
-  },
+    
   "nekfeu_esquimaux" : {
     "question" : "Complétez ces paroles d'Esquimaux (Nekfeu): \"Scooter des neiges en Y,\"",
     "answers" : [
@@ -98,5 +89,1165 @@
       "Wolfgang Amadeus"
     ],
     "right_answer" : 3
-  }
-}
+  },
+    
+  "chanteur_pinkfloyd" : {
+    "question" : "Qui était le premier chanteur du groupe Pink Floyd?",
+    "answers" : [
+      "Rogers Waters",
+      "David Gilmour",
+      "Syd Barett",
+      "Maitre Gims"
+    ],
+    "right_answer" : 2
+  },
+ "acdc_hommage" : {
+    "question" : "Avec quel album le groupe AC/DC rend hommage à Bon Scott?",
+    "answers" : [
+      "Highway to hell",
+      "Back in Black",
+      "Rock or Bust",
+      "L'Ovni"
+    ],
+    "right_answer" : 1
+  },
+ "boobavskaaris" : {
+    "question" : "Dans quel aéroport à eu lieu la bagarre entre Booba et Kaaris",
+    "answers" : [
+      "Charles de Gaulle",
+      "Orly",
+      "LaGuardia",
+      "L'aéroport de Meaux"
+    ],
+    "right_answer" : 1
+  },
+ "jean_ferrat_censuré" : {
+    "question" : "Laquelle des ces chansons de l'auteur Jean Ferrat à été censurée à cause de son engagement politique prononcé?",
+    "answers" : [
+      "Nuit et brouillard",
+      "Que serai-je sans toi",
+      "Que la montagne est belle",
+      "J'me tire"
+    ],
+    "right_answer" : 0
+  },
+ "france_nul_eurovision" : {
+    "question" : "En quelle année la France à t-elle réalisée sa pire performance à l'eurovision?",
+    "answers" : [
+      "1900, ils savaient pas chanter à cette époque",
+      "1998",
+      "2014, de toute façon plus personne sait chanter aujourd'hui à part JUL",
+      "2017"
+    ],
+    "right_answer" : 2
+  },
+ "boris_vian" : {
+    "question" : "A qui s'adresse la chanson Le Déserteur de Boris Vian?",
+    "answers" : [
+      "Charles Aznavour",
+      "Louis Aragon",
+      "Au président",
+      "Fatal Bazooka"
+    ],
+    "right_answer" : 2
+  },
+"iam_ryme" : {
+    "question" : "De quelle chanson du rapeur IAM les paroles \"Normal que les vents portent la révolte Que la terre où l'on marche est labourée par des molaire\" sont issues",
+    "answers" : [
+      "Petit Frère",
+      "Je danse le Mia",
+      "Monnaie de singe",
+      "Les raisons de la colère"
+    ],
+    "right_answer" : 3
+  },
+"inspiration_rock" : {
+    "question" : "De quel style de musique la plus part des rockeurs se sont inspirés?",
+    "answers" : [
+      "Musique Classique",
+      "Jazz",
+      "Bues",
+      "Rap"
+    ],
+    "right_answer" : 2
+  },
+"jimmy_page_guitare" : {
+    "question" : "Quel célèbre guitariste jouait avec une guitare à deux manches",
+    "answers" : [
+      "Jimi Hendrix, seulement pour la frime",
+      "BB King",
+      "David Gilmour",
+      "Jimmy Page, l'un des manche ne servait que pour jouer Stairway To Heaven"
+    ],
+    "right_answer" : 3
+  },
+"gardien_de_la_galaxie" : {
+    "question" : "De quelles années sont issuent les chansons des gardiens de la galaxie",
+    "answers" : [
+      "Années 50-60",
+      "Années 70-80",
+      "Années 90",
+      "Années 2000-2010"
+    ],
+    "right_answer" : 1
+  },
+"Seven_nation_army_origin" : {
+    "question" : "Quel groupe a composé pour la première fois la chanson Seven Nation Army",
+    "answers" : [
+      "The White Stripes",
+      "AC/DC",
+      "Led Zeppelin",
+      "NTM"
+    ],
+    "right_answer" : 0
+  },
+"NTM_membre" : {
+    "question" : "Qui sont les deux rappeur du groupe NTM",
+    "answers" : [
+      "Booba et Kaaris",
+      "Nekfeu et Orelsan",
+      "JoeyStarr et Mac Tyer",
+      "JoeyStarr et Kool Shen"
+    ],
+    "right_answer" : 3
+  },
+ "mari_Heidi_Klum" : {
+    "question" : "Quel chanteur est marié au mannequin Heidi Klum?",
+    "answers" : [
+      "Seal",
+      "Justin Timberlake",
+      "Daniel Powter",
+      "Eagle Eye Cherry"
+    ],
+    "right_answer" : 0
+  },
+"breathless" : {
+    "question" : "Quel groupe interprète le titre Breathless?",
+    "answers" : [
+      "Spice Girls",
+      "Destiny's Child",
+      "Pussycat Dolls",
+      "The Corrs"
+    ],
+    "right_answer" : 3
+  },
+    "romoeo_et_juliette" : {
+    "question" : "Dans quelle comédie musicale entend-on la musique Etre à la Hauteur?",
+    "answers" : [
+      "Roméo et Juliette",
+      "Le Roi Soleil",
+      "Le Soldat Rose",
+      "LaLaLand"
+    ],
+    "right_answer" : 0
+  },
+    "robbie_williams" : {
+    "question" : "Avec quelle actrice Robbie Williams a-t-il interprété Somethin'Stupid?",
+    "answers" : [
+      "Scarlett Johansson",
+      "Nicole Kidman",
+      "Julia Roberts",
+      "Cameron Diaz"
+    ],
+    "right_answer" : 1
+  },
+    "david_guetta" : {
+    "question" : "Quel DJ a sorti le tube Love is Gone?",
+    "answers" : [
+      "Bob Sinclar",
+      "Martin Garrix",
+      "Martin Solveig",
+      "David Guetta"
+    ],
+    "right_answer" : 3
+  },
+    "mpokora_revele" : {
+    "question" : "Avec quel émission de télévision Mpokora a-t-il été révélé?",
+    "answers" : [
+      "La Nouvelle Star",
+      "The Voice",
+      "Popstars",
+      "La France a un Incroyable Talent"
+    ],
+    "right_answer" : 2
+  },
+    "toxic" : {
+    "question" : "A quelle chanteuse doit-on le titren Toxic?",
+    "answers" : [
+      "Madonna",
+      "Lady Gaga",
+      "Nicki Minaj",
+      "Britney Spears"
+    ],
+    "right_answer" : 3
+  },
+    "eminem_clash" : {
+    "question" : "Qui Eminem n'a-t-il pas clashé?",
+    "answers" : [
+      "Micheal Jackson, oui oui le vrai",
+      "Sa mère",
+      "Mariah Carey, en même temps c'est pas compliqué",
+      "Les vénérables auteurs de ce quiz"
+    ],
+    "right_answer" : 3
+  },
+    "samuel_umtiti" : {
+    "question" : "A quel joueur francais la chanson Les Démons de Minuit a-t-elle été associé durant la coupe du monde de football 2018?",
+    "answers" : [
+      "Hugo Lloris",
+      "Antoine Griezmann",
+      "Kilian Mbappe",
+      "Samuel Umtiti"
+    ],
+    "right_answer" : 3
+  },
+    "chanson_equipe_de_france" : {
+    "question" : "Quel était la chanson qui représentait la france durant la coupe du monde 1998?",
+    "answers" : [
+      "Allumez le Feu de Johnny Halliday",
+      "I Will Survive de Gloria Gaynor",
+      "On a Tout Cassé de Paul Pogba",
+      "Zidane il va Marquer de Sébastien Cauet"
+    ],
+    "right_answer" : 1
+  },
+    "chanteur_doors" : {
+    "question" : "Qui était le chanteur des Doors?",
+    "answers" : [
+      "Ian Curtis",
+      "Jimmi Page",
+      "David Bowie",
+      "Jim Morrison"
+    ],
+    "right_answer" : 3
+  },
+    "gimme_gimme_gimme" : {
+    "question" : "Quel groupe chantait Gimme! Gimme!Gimme?",
+    "answers" : [
+      "ABBA",
+      "Earth Wind and Fire",
+      "Chic",
+      "Beach Boys"
+    ],
+    "right_answer" : 1
+  },
+    "jul_nombre" : {
+    "question" : "Combien de single Jul a-t-il sortie durant l'année 2016?",
+    "answers" : [
+      "25",
+      "44 dont 3 single d'or et 1 de platine",
+      "44 dont 5 single d'or, 2 de platine et 2 de diamant",
+      "53 dont 7 single d'or"
+    ],
+    "right_answer" : 2
+  },
+    "orelsan" : {
+    "question" : "De quoi Orelsan parle dans la chanson La Lumière?",
+    "answers" : [
+      "De la drogue",
+      "De son succès",
+      "De la manière dont il a trouvé l'amour",
+      "De Paris la ville lumière"
+    ],
+    "right_answer" : 2
+  },
+    "tryo" : {
+    "question" : "Quel groupe a créer la célèbre chanson L'Hymne de nos Campagnes?",
+    "answers" : [
+      "Tryo",
+      "The Who",
+      "Téléphone",
+      "Sexion D'assaut"
+    ],
+    "right_answer" : 0
+  },
+    "jdg" : {
+    "question" : "Le Joueur du Grenier a utilisé une chanson d'un groupe de rock japonais pour l'un de ses générique. Quel était ce groupe?",
+    "answers" : [
+      "Blistar, un groupe composé uniquement de femme",
+      "Asian Kung-Fu Generation, oui oui ca existe et ca déchire",
+      "Kishidan",
+      "Porno Graffitti"
+    ],
+    "right_answer" : 0
+  },
+    "troubadour" : {
+    "question" : "Quelles étaient les qualités que devait présenter les troubadours au Moyen-Age?",
+    "answers" : [
+      "Savoir chanter et danser",
+      "Savoir chanter danser et diriger une troupe",
+      "Savoir composer des poèmes et les interpréter",
+      "Savoir donner l'illusion qu'il sait chanter et maitriser l'Auto-Tune"
+    ],
+    "right_answer" : 2
+  },
+    "utwo" : {
+    "question" : "Quelle chanson de U2a été élue chanson de l'année 2000 lors des Grammy Awards?",
+    "answers" : [
+      "One",
+      "With or Without You",
+      "Beautiful Day",
+      "Tchikita"
+    ],
+    "right_answer" : 2
+  },
+    "detroit" : {
+    "question" : "Quels rapeurs chantent Detroit VS Everyboby?",
+    "answers" : [
+      "Eminem, 50 cent et Big Cent",
+      "Eminem, Big Sean, Dej Loaf, Royce da 5'9, Trick-Trick et Danny Brown",
+      "Kendrick Lamar, Valee et Saba",
+      "Jul tout seul, décidément il est trop fort ce Jul"
+    ],
+    "right_answer" : 1
+  },
+    "mclethal" : {
+    "question" : "Qui détient le record du monde de débit de parole avec 400 mots en 1minute?",
+    "answers" : [
+      "Eminem",
+      "Busta Rhymes",
+      "Mc Lethal",
+      "Christophe Maé"
+    ],
+    "right_answer" : 2
+  },
+    "skyfall" : {
+    "question" : "Quelle chanteuse a interprété la chanson phare du James Bond Skyfall",
+    "answers" : [
+      "Adele",
+      "Madonna",
+      "Beyoncé",
+      "Joyce Jonathan"
+    ],
+    "right_answer" : 0
+  },
+    "hommage_peterpan" : {
+    "question" : "Quelle rapeuse rend hommage à Peter Pan dans l'une de ses chansons?",
+    "answers" : [
+      "Casey",
+      "Diams",
+      "Koxie",
+      "Lady Laistee"
+    ],
+    "right_answer" : 1
+  },
+    "inspiration_david_guetta" : {
+    "question" : "De quel célèbre compositeur David Guetta c'est inspiré pour son tube Dangerous?",
+    "answers" : [
+      "Bach",
+      "Mozart",
+      "Debussy",
+      "Sébastien Patoche"
+    ],
+    "right_answer" : 0
+  },
+    "david_guetta" : {
+    "question" : "Avec quel rappeur David Guetta a-t-il sorti le tube Sweat?",
+    "answers" : [
+      "Jay Z",
+      "50 cent",
+      "Snoop Dog",
+      "Kanye West"
+    ],
+    "right_answer" : 2
+  },
+    "cuba_rock" : {
+    "question" : "Comment s'appelle l'organisme qui représente les rockeur à Cuba?",
+    "answers" : [
+      "L'agence cubaine du rock",
+      "Rock for cuba",
+      "Organisation cubaine du rock",
+      "Rock'n cuba"
+    ],
+    "right_answer" : 0
+  },
+    "opera" : {
+    "question" : "Quel est l'opéra le plus joué au monde?",
+    "answers" : [
+      "Mozart, La flûte enchantée",
+      "Bizet, Carmen",
+      "Puccini, La Bohème",
+      "Verdi, La Traviata"
+    ],
+    "right_answer" : 3
+  },
+    "patrick_bruel" : {
+    "question" : "Quel est le vrai nom de Patrick Bruel?",
+    "answers" : [
+      "Julien Marie",
+      "Maurice Benguigui",
+      "Alphonse la défonce",
+      "Michel Gérard Joseph Colucci"
+    ],
+    "right_answer" : 1
+  },
+    "jonhny_halliday" : {
+    "question" : "Quel est le vrai nom de Johny Halliday?",
+    "answers" : [
+      "Pierre Garand",
+      "Patrick Chouchayan",
+      "Jean Philippe Smet",
+      "Pascal Obispo"
+    ],
+    "right_answer" : 2
+  },
+    "beethoven" : {
+    "question" : "Combien de symphonies a créer Beethoven?",
+    "answers" : [
+      "9 et une 10ème non achevée",
+      "4 et une 5ème non achevée",
+      "5 et une 6ème non achevée",
+      "666"
+    ],
+    "right_answer" : 0
+  },
+    "vivaldi" : {
+    "question" : "Combien de siasons pour Vivaldi?",
+    "answers" : [
+      "Une",
+      "Deux",
+      "Trois",
+      "Quatre"
+    ],
+    "right_answer" : 3
+  },
+    "demoiselles_de_rochefort" : {
+    "question" : "Qui est le compositeur des Demoiselles de Rochefort?",
+    "answers" : [
+      "Gérard Michel",
+      "Bizet",
+      "Michel Legrand",
+      "M. Rochefort"
+    ],
+    "right_answer" : 2
+  },
+    "la_vie_en_rose" : {
+    "question" : "De quelle couleur Edith Piaf voit-elle la vie?",
+    "answers" : [
+      "Noir",
+      "Bleu",
+      "Vert pastel",
+      "Rose"
+    ],
+    "right_answer" : 3
+  },
+    "requiem" : {
+    "question" : "Que composait Mozart avant de mourir?",
+    "answers" : [
+      "Symphonie numéro 40 de Mozart",
+      "Requiem",
+      "Ave Verun Corpus",
+      "Wesh Alors"
+    ],
+    "right_answer" : 1
+  },
+    "amstrong" : {
+    "question" : "De quel instrument Louis Amstrong jouait-il??",
+    "answers" : [
+      "Trompette",
+      "Saxophone",
+      "Clarinette",
+      "Orgue symphonique"
+    ],
+    "right_answer" : 0
+  },
+    "bettles" : {
+    "question" : "Combien de chanteur les Beattles ont-ils eu?",
+    "answers" : [
+      "Un",
+      "Deux",
+      "Quatre",
+      "Cinq"
+    ],
+    "right_answer" : 2
+  },
+    "amour_edith_piaf" : {
+    "question" : "De quel sportif Edith Piaf était-elle amoureuse?",
+    "answers" : [
+      "Marcel Cerdan",
+      "Just Fontaine",
+      "Alain Minoun",
+      "Louis Lachenal"
+    ],
+    "right_answer" : 0
+  },
+    "axterix" : {
+    "question" : "A quel groupe fait référence le personnage Iélosubmarine dans Astérix?",
+    "answers" : [
+      "The Doors",
+      "The Beattles",
+      "Kool and the Gang",
+      "La Why Tea Fam"
+    ],
+    "right_answer" : 1
+  },
+    "asterix_cleopatre" : {
+    "question" : "Sur quelle célèbre chanson dansent les ouviers dans Astérix Mission Cléopatre?",
+    "answers" : [
+      "I got You (I feel Good) de James Brown",
+      "September d'Earth Wind and Fire",
+      "Careless Whisper de George Micheal",
+      "Wham Bam Shang a Lang de Silver"
+    ],
+    "right_answer" : 0
+  },
+    "bb_groot" : {
+    "question" : "Sur quelle chanson bébé Groot danse lors de la scène d'introduction des Gardiens de la Galaxie 2?",
+    "answers" : [
+      "Rubberband Man de The Spinners",
+      "Hooked on a Feeling de Blue Swede",
+      "Mr Blue Sky d'Electric Light Orchestra",
+      "Tchoin de Kaaris"
+    ],
+    "right_answer" : 2
+  },
+    "les_restos_du_coeur" : {
+    "question" : "Qui est l'auteur de la chanson Les Restos du Coeur??",
+    "answers" : [
+      "Patrick Bruel",
+      "Jean Jacques Goldman",
+      "Charles Aznavour",
+      "Coluche"
+    ],
+    "right_answer" : 1
+  },
+    "poinconeur_des_lilas" : {
+    "question" : "Qui est le poinconneur des lilas?",
+    "answers" : [
+      "Serge Gainsbourg",
+      "Johnny Halliday",
+      "Henry Dutilleux",
+      "Booba"
+    ],
+    "right_answer" : 0
+  },
+    "henry_dutilleux" : {
+    "question" : "Dans quel type d'oeuvre était spécialisé Henry Dutilleux?",
+    "answers" : [
+      "Shymphoniques",
+      "Orchestrales",
+      "Comédies musicales",
+      "Musique de film"
+    ],
+    "right_answer" : 1
+  },
+    "sea_sex_and" : {
+    "question" : "Sea, sex and...?",
+    "answers" : [
+      "Shine",
+      "Sunny days",
+      "Sun",
+      "Weed"
+    ],
+    "right_answer" : 2
+  },
+    "maurane" : {
+    "question" : "De quel compsiteur Maurane entend elle le prélude joué par Glen Gould?",
+    "answers" : [
+      "Alexandre Desplat",
+      "Hector Berlioz",
+      "Jean Sebastien Bach",
+      "Lacrim"
+    ],
+    "right_answer" : 2
+  },
+    "freddie_la_legende" : {
+    "question" : "Quel évênement marquant de la vie de Freddie Mercury l'a poussé à composer et chanter The Show Must Go On?",
+    "answers" : [
+      "Son mariage",
+      "Après avoir apprit qu'il était infecté du VIH et qu'il allait en mourrir",
+      "Après avoir prit la décision de quitter le groupe Queen",
+      "Après avoir perdu un membre de sa famille"
+    ],
+    "right_answer" : 1
+  },
+     "maurane" : {
+    "question" : "Pourquoi Bohemian Rhapsody de Queen repose sur une structure atypique pour un titre de rock?",
+    "answers" : [
+      "Parcequ'il n'y a aucun solo de guitare",
+      "Parcequ'il n'y a que des refrains",
+      "Parcequ'il n'y a aucun refrains et des parties a cappella",
+      "Parceque la chanson est écrite en alexandrin"
+    ],
+    "right_answer" : 2
+  },
+       "queen" : {
+    "question" : "Quelle est la date de la création du groupe Queen?",
+    "answers" : [
+      "1970",
+      "1972",
+      "1978",
+      "1986"
+    ],
+    "right_answer" : 0
+  },
+       "nirvana" : {
+    "question" : "Quand et par qui a été créé le groupe Nivana?",
+    "answers" : [
+      "1986 par Dave Grohl et Chad Channing",
+      "1987 par Kurt Cobain et Krist Novoselic",
+      "1987 par Pat Smear et Kurt Cobain",
+      "2003 par Nicki Minaj et Miley Cyrus"
+    ],
+    "right_answer" : 1
+  },
+       "kurt_la_legende" : {
+    "question" : "Quand est mort Kurt Cobain, leader du groupe Nirvana, et quel en a été les conséquences?",
+    "answers" : [
+      "1995, cela a abouti au sucide d'autre membre du groupe Nirvana",
+      "1993, le dernier album du groupe n'a pas pu être achevé",
+      "1999, cela a abouti a une crise dans l'industrie du rock",
+      "1994, cela a abouti à la dissolution du Groupe Nirvana"
+    ],
+    "right_answer" : 3
+  },
+       "kurt" : {
+    "question" : "Dans quels groupes à joué Kurt Cobain?",
+    "answers" : [
+      "Nirvana et Fecal Matter",
+      "Nirvana et AC/DC",
+      "Nirvana et R.E.M",
+      "Nirvana et Kyo"
+    ],
+    "right_answer" : 0
+  },
+       "eurythmix" : {
+    "question" : "Quel est la chanson la chanson la plus populaire du groupe Eurythmics?",
+    "answers" : [
+      "In the Garden",
+      "Be Yourself Tonight",
+      "Sweat Dreams",
+      "Savage"
+    ],
+    "right_answer" : 2
+  },
+       "anecdote" : {
+    "question" : "Quel est le style de musique du groupe Eurythmics?",
+    "answers" : [
+      "Pop Rock et new wave britannique",
+      "Rock Alternatif et Electro pop",
+      "Emo Rock",
+      "House"
+    ],
+    "right_answer" : 0
+  },
+       "george_harrison" : {
+    "question" : "A quel célèbre groupe George Harrison a-t-il fait parti?",
+    "answers" : [
+      "The Rolling Stones",
+      "The Beatles",
+      "The Beach Boys",
+      "The Kinks"
+    ],
+    "right_answer" : 1
+  },
+       "recompense" : {
+    "question" : "Quel récompense particulièrement honorifique l'Etat Britannique remet au Bettles en 1965?",
+    "answers" : [
+      "Membre de l'Odre de l'Empire britannique",
+      "Sujets de Sa Majesté",
+      "Citoyens d'exeption",
+      "Noble"
+    ],
+    "right_answer" : 0
+  },
+       "george_micheal" : {
+    "question" : "De quel groupe a fait parti George Micheal?",
+    "answers" : [
+      "The Velvet Underground",
+      "The Stooges",
+      "Genesis",
+      "Wham!"
+    ],
+    "right_answer" : 3
+  },
+       "homosexualite" : {
+    "question" : "Qu'a du déclarer publiquement George Micheal en 1998?",
+    "answers" : [
+      "Son divorce",
+      "Son homosexualité",
+      "La naissance de sa fille",
+      "L'arrêt de sa carrière"
+    ],
+    "right_answer" : 1
+  },
+       "ogga_chaka" : {
+    "question" : "Quel élément caractérise la chanson Hooked on a Feeling de Blue Swede?",
+    "answers" : [
+      "Houba Houba",
+      "Ooga Chaka Ooga Chaka",
+      "Zooba Soka Soka",
+      "Don't worry...Be happy"
+    ],
+    "right_answer" : 1
+  },
+       "bj_thomas" : {
+    "question" : "Qui est le premier à chanter Hooked on a Feeling?",
+    "answers" : [
+      "Jonathan King",
+      "Blue Swede",
+      "BJ Thomas",
+      "David Hasselhoff"
+    ],
+    "right_answer" : 2
+  },
+       "be_happy" : {
+    "question" : "Quelle est la première chanson A Cappella à atteindre la première place du Billboard Hot 100?",
+    "answers" : [
+      "Don't Worry Be Happy",
+      "Bohemian Raspody",
+      "The Twist",
+      "Bella Ciao de Nastro"
+    ],
+    "right_answer" : 0
+  },
+       "second_guitariste_jimi" : {
+    "question" : "Qui était le seconnd guitariste de Jimmi Hendrix?",
+    "answers" : [
+      "Noel Redding",
+      "Mitch Mitchelle",
+      "Billy Cox",
+      "Black M"
+    ],
+    "right_answer" : 0
+  },
+       "bilboard" : {
+    "question" : "Qu'est ce que le Bilboard Hot 100?",
+    "answers" : [
+      "Un groupe",
+      "Un concours de Musique",
+      "Le classement des 1000 chansons les plus populaires en Angleterre",
+      "Le classement des 100 chansons les plus populaires aux USA"
+    ],
+    "right_answer" : 2
+  },
+       "david_bowie" : {
+    "question" : "Quel élément atypique David Bowie apportait dans chacun de ses nouveaux albums?",
+    "answers" : [
+      "Un nouveau style de musique",
+      "Un nouvelle instrument",
+      "Un nouveau personnage",
+      "Une nouvelle pochette"
+    ],
+    "right_answer" : 2
+  },
+       "pink_floyd" : {
+    "question" : "Combien de noms désignent le groupe Pink Floyd?",
+    "answers" : [
+      "2",
+      "6",
+      "8",
+      "10"
+    ],
+    "right_answer" : 2
+  },
+          "genre_pink_floyd" : {
+    "question" : "Quel genre mudical ne joue pas le groupe Pink Floyd?",
+    "answers" : [
+      "Rock Psychadélique",
+      "Acid Rock",
+      "Rock Progressif",
+      "Rock'N'Roll"
+    ],
+    "right_answer" : 2
+  },
+    "asteroid" : {
+    "question" : "Quel groupe c'est vu attribué son nom à celui d'un astéroïde?",
+    "answers" : [
+      "Supertramp",
+      "Pink Floyd",
+      "NTM",
+      "Spice Girl "
+    ],
+    "right_answer" : 1
+  },
+    "supertramp" : {
+    "question" : "Quels intruments ne sont pas joués par le groupe de rock Supertramp?",
+    "answers" : [
+      "Harmonica, Balalaïka et Saxophone",
+      "Guitare acoustique, Acordéon et Basse",
+      "Guitare Electrique, Flûte et Clarinette",
+      "Contrebasse, Violon et Orge Symphonique"
+    ],
+    "right_answer" : 3
+  },
+          "crime_of_the_century" : {
+    "question" : "Quel album de Supertramp obtient le disque d'or au Royaume Uni et aux Etats Unis en 1975?",
+    "answers" : [
+      "Crime of the Century",
+      "Breakfast in America",
+      "Even in the Quietest Moments",
+      "Paris"
+    ],
+    "right_answer" : 0
+  },
+          "led_zep" : {
+    "question" : "Quel est le symbole de Led Zeppelin?",
+    "answers" : [
+      "Un chien",
+      "Un flamant rose",
+      "Un éclair",
+      "Un zeppelin"
+    ],
+    "right_answer" : 3
+  },
+          "led_zeppelin" : {
+    "question" : "En hommage à quel célèbre groupe de rock, Phillippe Chappuis, l'auteur de Titeuf, a-t-il choisit son surnom?",
+    "answers" : [
+      "The Beattles",
+      "Led Zeppelin",
+      "Starset",
+      "Thousand Foot Crush"
+    ],
+    "right_answer" : 1
+  },
+          "ray_charles" : {
+    "question" : "Quelle était la particularité de Ray Charles?",
+    "answers" : [
+      "Il jouait du piano tout en étant sourd",
+      "Il jouait du piano tout en étant aveugle",
+      "Il chantait tout en étant muet",
+      "Il avait toujours une paire de lunette comme Maitre Gims"
+    ],
+    "right_answer" : 1
+  },
+          "instru_charles" : {
+    "question" : "De quels intrument Ray Charles n'a pas joué?",
+    "answers" : [
+      "Guitare acoustique et électrique",
+      "Orgue et Saxophone",
+      "Clarinette et Trompette",
+      "Piano et chant"
+    ],
+    "right_answer" : 0
+  },
+          "aretha_franklins" : {
+    "question" : "A quelle date est morte la célèbre chanteuse de Soul et de Blues Aretha Franklin?",
+    "answers" : [
+      "16 Aout 2008",
+      "16 Aout 2010",
+      "16 Aout 1998",
+      "16 Aout 2018"
+    ],
+    "right_answer" : 3
+  },
+          "aretha" : {
+    "question" : "Quelle chanteuse afro-américaine est en seconde position des personnalités afro-américaines les plus connues après Marthin Luther King?",
+    "answers" : [
+      "Beyonce",
+      "Aretha Franklin",
+      "Alicia Keys",
+      "Nina Simone"
+    ],
+    "right_answer" : 1
+  },
+          "nina_simone" : {
+    "question" : "Pour quelle chanson Nina Simone est-elle particulièrement connu?",
+    "answers" : [
+      "Here Comes the Sun",
+      "Baltimore",
+      "Feeling Good",
+      "Mr Bojangles"
+    ],
+    "right_answer" : 2
+  },
+          "nina" : {
+    "question" : "Avec quel album Nina Simone dénonce pour la première fois les inégalités raciales aux Etats Unis?",
+    "answers" : [
+      "Nina Simone in Concert",
+      "I Put a Spell on You",
+      "Whild is the Wind",
+      "Here Comes the Sun"
+    ],
+    "right_answer" : 0
+  },
+          "beyonce" : {
+    "question" : "De quel groupe Beyoncé a-t-elle fait partie avant sa carrière solo?",
+    "answers" : [
+      "Spice Girls",
+      "TLC",
+      "Destiny's Child",
+      "Those Dancing Days"
+    ],
+    "right_answer" : 2
+  },
+          "beyonce" : {
+    "question" : "Quel thème aborde souvent Beyoncé lors de ses compsitions?",
+    "answers" : [
+      "La politique",
+      "Le pouvoir des femmes",
+      "Les inégalités",
+      "L'argent"
+    ],
+    "right_answer" : 1
+  },
+          "eminem_feat_beyonce" : {
+    "question" : "Comment s'appelle la première chanson du dernier album d'Eminem, en featuring avec Beyoncé?",
+    "answers" : [
+      "Belive",
+      "Rap God",
+      "Revival",
+      "Walk On Water"
+    ],
+    "right_answer" : 3
+  },
+          "cdeuxc" : {
+    "question" : "Quel genre musical aborde le groupe C2C?",
+    "answers" : [
+      "Electro pop",
+      "Breakbeat",
+      "Rock Alternatif",
+      "Rap"
+    ],
+    "right_answer" : 1
+  },
+          "mcfly_carlito" : {
+    "question" : "McFly et Carlito c'est...?",
+    "answers" : [
+      "Débile",
+      "Surcoté Sous-côté",
+      "TROP BIIIIIEN",
+      "Pas mal"
+    ],
+    "right_answer" : 1
+  },
+          "cortex" : {
+    "question" : "D'après Cyprien, Cortex doit...",
+    "answers" : [
+      "apprendre à écrir",
+      "aller sur les champs élysés",
+      "aller clasher sa grand-mère pour un niveau équitable ",
+      "Prendre du lait"
+    ],
+    "right_answer" : 2
+  },
+          "bb_king" : {
+    "question" : "BB King est considéré comme étant l'un des meilleur musiciens de quel style de musique?",
+    "answers" : [
+      "Blues",
+      "Jazz",
+      "Soul",
+      "Heavy Metal"
+    ],
+    "right_answer" : 0
+  },
+          "maitre_gims" : {
+    "question" : "Avec combien de femmes est marié Maitre Gims?",
+    "answers" : [
+      "1",
+      "2",
+      "3",
+      "10"
+    ],
+    "right_answer" : 2
+  },
+          "lucille" : {
+    "question" : "Lors d'un incendie dans un bar, qu'est retourné chercher BB King à l'interieur?",
+    "answers" : [
+      "Son chapeau qu'il surnomma fuego",
+      "Sa petite amie du moment",
+      "Son verre qu'il avait payé juste avant",
+      "Sa guitare qu'il surnomma Lucille"
+    ],
+    "right_answer" : 3
+  },
+          "solo" : {
+    "question" : "Quel solo de guitare a été plus beau solo de guitare de tout les temps?",
+    "answers" : [
+      "Nothing else Matters de Métallica",
+      "Valentine's Day de David Bowie",
+      "Comfortably Numb de Pink Floyd",
+      "Hotel California des Eagles"
+    ],
+    "right_answer" : 2
+  },
+          "stromae" : {
+    "question" : "Comment s'appelle la musique de Stromae avec Maitre Gims et Orelsan en featuring?",
+    "answers" : [
+      "AVF",
+      "Cheese",
+      "Cesaria",
+      "Carmen"
+    ],
+    "right_answer" : 0
+  },
+          "arret_stromae" : {
+    "question" : "Pourquoi Stromae a-t-il arrété sa carrière de chanteur pendant plusieurs années?",
+    "answers" : [
+      "La fatigue et le manque d'envie",
+      "La maladie",
+      "Le manque d'argent",
+      "Sa mère n'était pas d'accord"
+    ],
+    "right_answer" : 0
+  },
+          "cesaria" : {
+    "question" : "Pourquoi la chanteuse de Morna Coladeira Cap-verdienne Césaria-Evora est-elle surnommé la diva aux pieds nus?",
+    "answers" : [
+      "Elle est réputée pour ses beaux pieds",
+      "Elle se produit pieds nus sur scène",
+      "Elle est réputée pour ses pieds hideux",
+      "Elle ne se coupe jamais les ongles de pied"
+    ],
+    "right_answer" : 1
+  },
+          "naestro" : {
+    "question" : "Quel chanteur a reprit Bella Ciao avec Maitre Gims, Vitaa, Dadju et Slimane?",
+    "answers" : [
+      "Maestro",
+      "Naestro",
+      "Kendji Girac",
+      "Kendrick Lamar"
+    ],
+    "right_answer" : 1
+  },
+          "california" : {
+    "question" : "Où se trouve l'hôtel des Eagles?",
+    "answers" : [
+      "En tanzanie",
+      "En californie",
+      "A New York",
+      "A Washington"
+    ],
+    "right_answer" : 1
+  },
+          "bella_cio" : {
+    "question" : "A quel type de chant appartient Bella Ciao?",
+    "answers" : [
+      "Amour",
+      "Républicain",
+      "Dance",
+      "Revolutionnaire"
+    ],
+    "right_answer" : 3
+  },
+    "sept_years" : {
+    "question" : "A qui appartient le single 7 Years?",
+    "answers" : [
+      "Amy Winehouse",
+      "Alicia Keys",
+      "Lukas Graham",
+      "Ariana Grande"
+    ],
+    "right_answer" : 2
+  },
+    "lorenzo" : {
+    "question" : "Quel est le type de rap de Lorenzo?",
+    "answers" : [
+      "Fusion",
+      "Troll Rap",
+      "Rap Conscient",
+      "Rap Gangsta"
+    ],
+    "right_answer" : 1
+  },
+    "amy_morte" : {
+    "question" : "De quoi est morte Amy Winehouse à l'age de 27 ans?",
+    "answers" : [
+      "De vieillesse",
+      "Assassinée",
+      "De la drogue",
+      "De l'alcool"
+    ],
+    "right_answer" : 3
+  },
+    "mika" : {
+    "question" : "Qui dit beaucoup de choses a Moka dans sa chanson Elle me Dit?",
+    "answers" : [
+      "Son père travesti",
+      "Sa soeur",
+      "Sa mère",
+      "Sa copine"
+    ],
+    "right_answer" : 2
+  },
+    "chilla" : {
+    "question" : "D'après Chilla si j'étais un homme...?",
+    "answers" : [
+      "...je me masturberai",
+      "...je ferai le ménage",
+      "...j'aurai un salaire normal",
+      "...je pisserai contre les murs"
+    ],
+    "right_answer" : 3
+  },
+    "alicia" : {
+    "question" : "D'après Alicia Keys :This girl is...?",
+    "answers" : [
+      "...on the water",
+      "...on fire",
+      "...a dreamer",
+      "...a fire work"
+    ],
+    "right_answer" : 1
+  },
+    "frank_sinatra" : {
+    "question" : "D'après Frank Sinatra quelle est la plus belle ville du monde?",
+    "answers" : [
+      "Rio",
+      "Paris",
+      "Venise",
+      "New-York"
+    ],
+    "right_answer" : 3
+  },
+     "edith" : {
+    "question" : "Que regrette Edith Piaf?",
+    "answers" : [
+      "Tout absolument tout",
+      "Rien de Rien",
+      "Son passé",
+      "Son futur"
+    ],
+    "right_answer" : 1
+  },
+    "madagascar" : {
+    "question" : "Dans quel film la chanson I like to Move It est elle particulièrement mise en avant?",
+    "answers" : [
+      "Madagascar",
+      "Monstre et Companie",
+      "Zootopie",
+      "Le Roi Lion"
+    ],
+    "right_answer" : 0
+  },
+    "juljul" : {
+    "question" : "Quel terme Jul n'a t-il pas utilisé dans l'un de ses sons?",
+    "answers" : [
+      "Gros tété",
+      "Zézette",
+      "Foufoune",
+      "Wesh"
+    ],
+    "right_answer" : 2
+  },
+    "mort" : {
+    "question" : "Quel artist décédé a vendu le plus d'album en 2016?",
+    "answers" : [
+      "David Bowie",
+      "Mozart",
+      "Charles Aznavour",
+      "Debussy"
+    ],
+    "right_answer" : 1
+  },
+    "film" : {
+    "question" : "Le quel des ces compositeurs a composé les génériques des films de la trilogie Spiderman?",
+    "answers" : [
+      "Danny Elfman",
+      "John Williams",
+      "Hans Zimmer",
+      "Ennio Morricone"
+    ],
+    "right_answer" : 0
+  },
+    "films" : {
+    "question" : "Quel compositeur de musique de film a composé la musique de la trilogie Batman, de Pirate des Caraïbes, de Transformers et bien d'autres encore?",
+    "answers" : [
+      "Danny Elfman",
+      "John Williams",
+      "Hans Zimmer",
+      "James Horner"
+    ],
+    "right_answer" : 2
+  },

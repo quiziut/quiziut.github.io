@@ -8,5 +8,16 @@
       "31 ans"
     ],
     "right_answer" : 2
-  }
+  },
+    "parisi" : {
+    "question" : "Lequel de ces athlètes a remporté 3 championnat du monde et 3 jeux Olympiques avec 3 nationalités différentes?",
+    "answers" : [
+      "Angelo Parisis, en étant italien puis anglais puis français",
+      "Micheal Phelps, en étant canadien, anglais puis américain",
+      "Alain Bernard, en étant breton puis corse puis belge",
+      "Michel Platini, en étant français puis quatari puis koweitien"
+    ],
+    "right_answer" : 0
+  },
 }
+

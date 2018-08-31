@@ -1,0 +1,731 @@
+{
+  "ready_player_one" : {
+    "question" : "Lequel de ces films de Steeven Spielberg rend t-il hommage à la pop culture dans son ensemble?",
+    "answers" : [
+      "Le Bon Gros Géant",
+      "Jurrasic Park",
+      "Pentagon Pappers",
+      "Ready Player One"
+    ],
+    "right_answer" : 3
+  },
+     "pokemon" : {
+    "question" : "Quelles sont les premières versions de Pokémon?",
+    "answers" : [
+      "Vert, Rouge et Bleu",
+      "Jaune et Orange",
+      "Rubis et Saphir",
+      "Or et Argent"
+    ],
+    "right_answer" : 0
+  },
+     "easter_egg" : {
+    "question" : "Qu'est ce qu'un easter eggs?",
+    "answers" : [
+      "Un oeuf",
+      "Une chose caché dans un jeu",
+      "Un mode supplémentaire pour un jeu",
+      "Un personnage de jeu vidéo"
+    ],
+    "right_answer" : 1
+  },
+    "premier_easter" : {
+    "question" : "Dans quel jeu était le premier easter egg?",
+    "answers" : [
+      "Pack-Man sur borne d'arcade",
+      "Adventure sur Atari 2600",
+      "Super Mario 3 sur Super Nes",
+      "GTA sur Playstation3"
+    ],
+    "right_answer" : 1
+  },
+    "real_gardien" : {
+    "question" : "Qui a créé les comics Gardien de la Galaxie?",
+    "answers" : [
+      "Arnold Drake et Gene Colan en 1969",
+      "Stan Lee et Frank Miller en 1970",
+      "Jack Kirby et Alan Mooreen 1968",
+      "Will Eisner et Steve Ditko en 1969"
+    ],
+    "right_answer" : 0
+  },
+    "stan" : {
+    "question" : "Qui est le créateur d'un grand nombre de super hero dont Spiderman?",
+    "answers" : [
+      "Stan Lee",
+      "Frank Miller",
+      "Alan Moore",
+      "Gene Colan"
+    ],
+    "right_answer" : 0
+  },
+    "jaune" : {
+    "question" : "Où sont allés le plus souvent les Simpson pour leurs vacances?",
+    "answers" : [
+      "Australie",
+      "Angleterre",
+      "France",
+      "Italie"
+    ],
+    "right_answer" : 2
+  },
+    "kamehame" : {
+    "question" : "KA...ME...HA...ME...?",
+    "answers" : [
+      "HAAAAAAA",
+      "HOOOOOOO",
+      "HIIIIIII",
+      "ZZZZZZZZ"
+    ],
+    "right_answer" : 0
+  },
+    "songoku" : {
+    "question" : "Qui est le premier rival de Son Goku dans la série Dragon Ball?",
+    "answers" : [
+      "Tortue Géniale",
+      "Krilin",
+      "Piccolo",
+      "Vegeta"
+    ],
+    "right_answer" : 1
+  },
+    "luffy" : {
+    "question" : "Qu'est ce que ne peut pas faire Luffy?",
+    "answers" : [
+      "Manger",
+      "Des vidéos Youtube",
+      "Nager",
+      "Grandir"
+    ],
+    "right_answer" : 2
+  },
+    "poulpe" : {
+    "question" : "Comment s'appelle le meilleur prof poulpe?",
+    "answers" : [
+      "Mr Koro",
+      "Mr Poulpe",
+      "Mr Jaune",
+      "Mr Tentacule"
+    ],
+    "right_answer" : 0
+  },
+    "chewbacca" : {
+    "question" : "Quel était le tout premier surnom de Chewbacca dans la saga Star Wars?",
+    "answers" : [
+      "Chewee",
+      "Chewba",
+      "Bacca",
+      "Chico"
+    ],
+    "right_answer" : 3
+  },
+    "cyprien" : {
+    "question" : "Quelle question adore poser Cyprien?",
+    "answers" : [
+      "Pourquoi?!",
+      "Quoi?!",
+      "Qui?!",
+      "Combien?!"
+    ],
+    "right_answer" : 0
+  },
+    "mort" : {
+    "question" : "Dans quel manga le héro et sa mère meurent dès le premier tome?",
+    "answers" : [
+      "One Piece",
+      "Berserk",
+      "L'Attaque des Titans",
+      "Death Note"
+    ],
+    "right_answer" : 2
+  },
+     "kratos" : {
+    "question" : "Quel est le premier dieu que Katos, dans God of War, tue?",
+    "answers" : [
+      "Athéna",
+      "Hadès",
+      "Arès",
+      "Artemis"
+    ],
+    "right_answer" : 2
+  },
+     "assassin" : {
+    "question" : "Quel assassin de la saga Assassin's Creed a eu le droit à trois jeux?",
+    "answers" : [
+      "Ataïr",
+      "O'Connor",
+      "Edward Kenway",
+      "Ezio Auditore"
+    ],
+    "right_answer" : 3
+  },
+     "marvel" : {
+    "question" : "De quelle mythologie s'inspire tout particulièrement l'univers Marvel?",
+    "answers" : [
+      "Grecque",
+      "Egyptienne",
+      "Nordique",
+      "Mésopotamienne"
+    ],
+    "right_answer" : 2
+  },
+    "thanos_mort" : {
+    "question" : "Dans les Comics, de qui Thanos est amoureux?",
+    "answers" : [
+      "La mort",
+      "La vie",
+      "De la planète Titan",
+      "De Tony Stark"
+    ],
+    "right_answer" : 0
+  },
+    "death_note" : {
+    "question" : "Quel surnom le monde entier donne à Light Yagami dans Death Note?",
+    "answers" : [
+      "Le dieu de la mort",
+      "Le tueur au carnet",
+      "Hadès",
+      "Kira"
+    ],
+    "right_answer" : 3
+  },
+    "hanna" : {
+    "question" : "Pourquoi Hannah Montana mène une double vie?",
+    "answers" : [
+      "Elle est une espionne",
+      "Elle est célèbre",
+      "Elle aime ça",
+      "Elle n'a pas d'ami"
+    ],
+    "right_answer" : 1
+  },
+    "tueuse_vampire" : {
+    "question" : "Qui est la tueuse de vampire?",
+    "answers" : [
+      "Buffy",
+      "Wilow",
+      "Tara",
+      "Cordélia"
+    ],
+    "right_answer" : 0
+  },
+    "superbowl" : {
+    "question" : "Quel célèbre acteur de la série Game of Thrones a participé à une pub passée au Superbowl?",
+    "answers" : [
+      "Kit Harington",
+      "Peter Dinklage",
+      "Nikolaj Coster-Waldau",
+      "Allfie Allen"
+    ],
+    "right_answer" : 1
+  },
+    "spidey" : {
+    "question" : "Comment s'appelle le celui qui a remplacé Peter Parker en temps que Spider-Man dans les nouveaux comics Spider-Man?",
+    "answers" : [
+      "Tony Stark",
+      "Flash Thomson",
+      "Miles Morales",
+      "Mary Jane"
+    ],
+    "right_answer" : 2
+  },
+    "civil_war" : {
+    "question" : "Qui s'oppose dans la deuxième civil war dans l'univers Marvel?",
+    "answers" : [
+      "Iron-Man et Bruce Baner",
+      "Iron-Man et Captain América",
+      "Iron-Man et Spider-Man",
+      "Iron-Man et Captain Marvel"
+    ],
+    "right_answer" : 3
+  },
+    "alien" : {
+    "question" : "Combien de bouche(s) ont les Xénomorphes dans Alien?",
+    "answers" : [
+      "1",
+      "2",
+      "3",
+      "10"
+    ],
+    "right_answer" : 1
+  },
+    "pes" : {
+    "question" : "Quel est le seul jeu de foot où un arbitre est présent sur la pochette du jeu?",
+    "answers" : [
+      "Pes2006",
+      "Fifa2005",
+      "Fifa2004",
+      "Pes2003"
+    ],
+    "right_answer" : 3
+  },
+    "atari" : {
+    "question" : "Quelle est la première console de jeux vidéos grand public?",
+    "answers" : [
+      "NES",
+      "Mégadrive",
+      "Atari",
+      "Commodor 64"
+    ],
+    "right_answer" : 2
+  },
+    "charlie" : {
+    "question" : "Dans Où est Charlie, Charlie ne sort jamais sans...?",
+    "answers" : [
+      "Ses bottes",
+      "Son labrador",
+      "Son verre de jus de pomme",
+      "Sa canne"
+    ],
+    "right_answer" : 3
+  },
+    "mario" : {
+    "question" : "Quel effet ont les fleurs sur Mario?",
+    "answers" : [
+      "Il grandit",
+      "Il rapeticie",
+      "Il a une queue qui lui permet de voler",
+      "Il peut tirer des boules de feu"
+    ],
+    "right_answer" : 3
+  },
+    "futurama" : {
+    "question" : "Dans la série Futurama, comment s'appel le robot, meilleur ami de Fry?",
+    "answers" : [
+      "Benhur",
+      "Bender",
+      "Bulder",
+      "Bouner"
+    ],
+    "right_answer" : 1
+  },
+    "mario" : {
+    "question" : "Que son en réalité les briques dans le monde de Mario?",
+    "answers" : [
+      "De simple brique",
+      "Des tombes du royaume champignon",
+      "Des maisons du royaume champignon",
+      "Des montagnes"
+    ],
+    "right_answer" : 1
+  },
+    "barney" : {
+    "question" : "Lequel de ces défis Barney s'est-il vraiment lancé dans la série How I Met Your Mother?",
+    "answers" : [
+      "Coucher avec une fille par soir pendant une semaine",
+      "Se marier avant 20 ans",
+      "Coucher avec un homme",
+      "Regarder la saison 10 des Anges "
+    ],
+    "right_answer" : 0
+  },
+    "fzero" : {
+    "question" : "Comment s'appelle le personage principal du jeu de course F-Zéro?",
+    "answers" : [
+      "Captain Faucon",
+      "Captain Aigle",
+      "Captain Falcon",
+      "Captain Eagle"
+    ],
+    "right_answer" : 2
+  },
+    "batman" : {
+    "question" : "Pour quelle célèbre réplique est connu la série Batman des année 80?",
+    "answers" : [
+      "I am Batman",
+      "Arrétez vous! Bande de criminel!",
+      "Allons-y Robin!",
+      "Oh nooooon!"
+    ],
+    "right_answer" : 1
+  },
+    "starwars" : {
+    "question" : "Combien y a t-il eu de films Star Wars?",
+    "answers" : [
+      "6",
+      "7",
+      "9",
+      "10"
+    ],
+    "right_answer" : 3
+  },
+    "matrix" : {
+    "question" : "Comment s'appelle l'agent qui pourchasse Néo dans Matrix?",
+    "answers" : [
+      "L'agent Smouth",
+      "L'agent Stark",
+      "L'agent Smith",
+      "L'agent James"
+    ],
+    "right_answer" : 2
+  },
+    "mcfly" : {
+    "question" : "D'après Retour vers le Future, quelle chanson Marty Macfly a-til inspiré à Chuck Berry?",
+    "answers" : [
+      "Maybellene",
+      "Johnny B. Good",
+      "You Can't Catch Me",
+      "Back in the USA"
+    ],
+    "right_answer" : 1
+  },
+    "scarie_movie" : {
+    "question" : "Dans Scary Movie 2, avec quelle créture, Shorty couche avec un sac sur la tête ?",
+    "answers" : [
+      "Un démon",
+      "Le diable",
+      "Un fantôme",
+      "Un squelette"
+    ],
+    "right_answer" : 2
+  },
+    "lunette_harry" : {
+    "question" : "Durant tout la saga Harry Potter, combien de paires de lunette Daniel Radcliffe a-t-il utilisé?",
+    "answers" : [
+      "60",
+      "100",
+      "160",
+      "260"
+    ],
+    "right_answer" : 2
+  },
+    "docteur" : {
+    "question" : "Depuis combien de temps dure la saga Docteur Who?",
+    "answers" : [
+      "20 ans",
+      "30 ans",
+      "40 ans",
+      "50 ans"
+    ],
+    "right_answer" : 3
+  },
+    "ca" : {
+    "question" : "Quel monstre se fait botter les fesses par des enfants?",
+    "answers" : [
+      "Chucky",
+      "Ca",
+      "Ganak",
+      "Freddy"
+    ],
+    "right_answer" : 1
+  },
+    "" : {
+    "question" : "Que prononce Gandalf pour entrer dans la grotte où se trouve le Balrog?",
+    "answers" : [
+      "VOUS NE PASSEREZ PAS!",
+      "Césam ouvre toi",
+      "Mellol",
+      "ABRACADABRA"
+    ],
+    "right_answer" : 2
+  },
+    "assassin" : {
+    "question" : "Quelle ville visite t-on dans Assassin's Creed Brotherhood?",
+    "answers" : [
+      "Venise",
+      "Rome",
+      "Florence",
+      "Naples"
+    ],
+    "right_answer" : 1
+  },
+    "pere" : {
+    "question" : "La vrai réplique c'est...?",
+    "answers" : [
+      "Luke...je suis ton père",
+      "Luke...chui ton daron",
+      "Non...je suis ton père",
+      "Je suis ton père"
+    ],
+    "right_answer" : 2
+  },
+    "xmen" : {
+    "question" : "Comment Wolverine obtient-il ses griffes en adamentium?",
+    "answers" : [
+      "Par une mutation",
+      "Par une expérience",
+      "Par miracle",
+      "Par margie"
+    ],
+    "right_answer" : 1
+  },
+    "gladiator" : {
+    "question" : "Dans Gladiator, qui Maximus désire tuer?",
+    "answers" : [
+      "César",
+      "Brutus",
+      "Commode",
+      "Pamplemus"
+    ],
+    "right_answer" : 2
+  },
+    "indi" : {
+    "question" : "Quel est le premier trésor que l'on peut voir dans Indiana Jones?",
+    "answers" : [
+      "Une statuète en or",
+      "La boite de pandore",
+      "L'arche d'alliance",
+      "L'Eldorado"
+    ],
+    "right_answer" : 0
+  },
+    "star_trek" : {
+    "question" : "Comment s'appelle le vulcain le plus connu de Star Trek?",
+    "answers" : [
+      "Vulcain",
+      "Capitain Kurk",
+      "Scotty",
+      "Spoke"
+    ],
+    "right_answer" : 3
+  },
+    "james_bond" : {
+    "question" : "Que signifient les deux 0 dans le nom de code 007?",
+    "answers" : [
+      "Que l'agent peut intervenir partout",
+      "Qu'il peut tuer et qu'il l'a deja fait",
+      "Qu'il a deja été tué",
+      "Qu'il est vraiment très nul"
+    ],
+    "right_answer" : 1
+  },
+    "han" : {
+    "question" : "Dans Star Wars: Han...?",
+    "answers" : [
+      "Shot first",
+      "Kill first",
+      "Run first",
+      "Sleep first"
+    ],
+    "right_answer" : 0
+  },
+    "mib" : {
+    "question" : "Quel est le nom de code des deux agents dans MIB?",
+    "answers" : [
+      "I et J",
+      "K et U",
+      "Z et J",
+      "K et J"
+    ],
+    "right_answer" : 3
+  },
+    "avatar" : {
+    "question" : "Avec quoi s'accouple les na'vi dans Avatar?",
+    "answers" : [
+      "Leur cheveux",
+      "Leur queue",
+      "Leurs mains",
+      "Leurs seins"
+    ],
+    "right_answer" : 1
+  },
+    "rambo" : {
+    "question" : "A l'origine, quelle était la mission de Rambo dans Rambo 2?",
+    "answers" : [
+      "Tuer un maximum de vietnamien",
+      "Trouver des preuves en prenant des photos",
+      "Camper une semaine en pleine zone de guerre",
+      "Infiltrer un camps vietnamien"
+    ],
+    "right_answer" : 1
+  },
+    "dragon" : {
+    "question" : "Comment s'appelle le plus grand des dragons dans Le Hobit?",
+    "answers" : [
+      "Smag",
+      "Smog",
+      "Smaug",
+      "Smug"
+    ],
+    "right_answer" : 2
+  },
+    "ghost_buster" : {
+    "question" : "Comment s'appelle le monstre géant qui attaque les Ghost Busters?",
+    "answers" : [
+      "Michelin",
+      "Un chamalow géant",
+      "Le bibindum Chamalow",
+      "Le géant de fer"
+    ],
+    "right_answer" : 2
+  },
+    "bubblebee" : {
+    "question" : "La forme de quelle voiture adopte Bubblebee dans la saga Transformers?",
+    "answers" : [
+      "Une Ferrari Enzo",
+      "Une Dodge Challenger",
+      "Une Mercedes classe S",
+      "Une Ford Mustang"
+    ],
+    "right_answer" : 3
+  },
+    "manhattan" : {
+    "question" : "A quelle série de comics appartient Docteur Manhattan?",
+    "answers" : [
+      "Spider-Man",
+      "Docteur Strange",
+      "Watchmen",
+      "Docteur Manhattan"
+    ],
+    "right_answer" : 2
+  },
+    "archéologue" : {
+    "question" : "Comment s'appelle l'archéologue britannique de fiction, héroïne de la série Tom Raider?",
+    "answers" : [
+      "Samus Aran",
+      "Angélina Jolie",
+      "Ms. Pac-Man",
+      "Lara Croft"
+    ],
+    "right_answer" : 3
+  },
+    "metroide" : {
+    "question" : "Comment s'appelle l'héroïne du jeu Métroïd?",
+    "answers" : [
+      "Samus Aran",
+      "Lara Croft",
+      "Géni Layne",
+      "Loïs Layne"
+    ],
+    "right_answer" : 0
+  },
+    "couleur" : {
+    "question" : "De quelles couleurs sont les joues de Pikachu?",
+    "answers" : [
+      "Jaunes",
+      "Vertes",
+      "Rouges",
+      "Bleues"
+    ],
+    "right_answer" : 2
+  },
+    "luigi" : {
+    "question" : "De quelle couleur est la casquette de Luigi?",
+    "answers" : [
+      "Verte",
+      "Rouge",
+      "Bleue",
+      "Blanche"
+    ],
+    "right_answer" : 0
+  },
+    "play" : {
+    "question" : "Quelle entreprise développe les systèmes Playstation?",
+    "answers" : [
+      "Atari",
+      "Sony",
+      "Acclaim",
+      "Microsoft"
+    ],
+    "right_answer" : 1
+  },
+    "rpg" : {
+    "question" : "Que signifie RPG?",
+    "answers" : [
+      "Real Person Game",
+      "Right Paper Game",
+      "Role Playing Game",
+      "Real Player's Game"
+    ],
+    "right_answer" : 2
+  },
+    "mode_de_jeu" : {
+    "question" : "Quel mode de jeu dans EA Madden Permet de créer et de guider un joueur NFL tout au long de sa carrière?",
+    "answers" : [
+      "Mode Coach",
+      "Mode Pro Manager",
+      "Mode Agent Control",
+      "Mode Super Star"
+    ],
+    "right_answer" : 3
+  },
+    "rachel" : {
+    "question" : "Comment rachel s'échappe t-elle de son mariage avec Barry dans Friends?",
+    "answers" : [
+      "Par la fenêtre des toilettes",
+      "Par la porte de derrière",
+      "Par la porte d'entrée",
+      "Elle se cache dans un placard"
+    ],
+    "right_answer" : 0
+  },
+    "bierre" : {
+    "question" : "Quelle est la célèbre boisson de la saga Harry Potter?",
+    "answers" : [
+      "La bière",
+      "La bière au beurre",
+      "La soupe à la grimace",
+      "La soupe de potiron"
+    ],
+    "right_answer" : 1
+  },
+    "luke" : {
+    "question" : "Qui joue le rôle de Luke Skywalker dans la saga Star Wars?",
+    "answers" : [
+      "Christian Slater",
+      "Jeff Bridges",
+      "Mark Hamill",
+      "Sean Connery"
+    ],
+    "right_answer" : 2
+  },
+    "obi" : {
+    "question" : "Dans Un Nouvel Espoir, dans quel astroport de tatooine Luke enmène-t-il Obi-Wan?",
+    "answers" : [
+      "Mos Eisley",
+      "Yavin",
+      "Noioda",
+      "Mos Mara"
+    ],
+    "right_answer" : 0
+  },
+    "steve" : {
+    "question" : "A quelle guerre Steve Rogers a-til prit part?",
+    "answers" : [
+      "Guerre du Viet-Nam",
+      "Première Guerre Mondiale",
+      "Guerre de Corée",
+      "Seconde Guerre Mondiale"
+    ],
+    "right_answer" : 3
+  },
+    "xbox" : {
+    "question" : "Lequel de ces jeux n'est sorti que sur Xbox 360?",
+    "answers" : [
+      "Halo 3",
+      "Assassin's Creed 2",
+      "Tomb Raider",
+      "Guitar Hero 2"
+    ],
+    "right_answer" : 0
+  },
+    "pong" : {
+    "question" : "Les créateurs de Pong ont joué un rôle important dans la création de quelle entreprise de jeu vidéo?",
+    "answers" : [
+      "Nintendo",
+      "Atari",
+      "MSX",
+      "Sony"
+    ],
+    "right_answer" : 1
+  },
+    "skate" : {
+    "question" : "Quel célèbre skateboardeur a donné son nom à un célèbre jeu de skateboard?",
+    "answers" : [
+      "Willy Santos",
+      "Rodney Mullen",
+      "Ban Margera",
+      "Tony Hawk"
+    ],
+    "right_answer" : 3
+  },
+    "" : {
+    "question" : "?",
+    "answers" : [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "right_answer" : 0
+  },

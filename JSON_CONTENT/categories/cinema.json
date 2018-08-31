@@ -8,5 +8,125 @@
       "1985"
     ],
     "right_answer" : 1
-  }
+  },
+    "beverly_hills" : {
+    "question" : "Dans Le Flic de Beverly Hills 2 qui revient en temps qu'un inspecteur de la police de Détroit?",
+    "answers" : [
+      "Forest Whitaker",
+      "Gary Coleman",
+      "Laurence Fishburne",
+      "Eddie Murphy"
+    ],
+    "right_answer" : 3
+  },
+    "fbi" : {
+    "question" : "Dans quel film Keanu Reeves jouait-il un agent du FBI et Patrick Swayze un surfeur?",
+    "answers" : [
+      "Double Impact",
+      "High Risk",
+      "Point Break",
+      "Fast Getaway"
+    ],
+    "right_answer" : 2
+  },
+    "robot" : {
+    "question" : "Dans quel film d'animation un robot solitaire rencontre un robot de recherche appelé EVE?",
+    "answers" : [
+      "Robots",
+      "WALL-E",
+      "Le géant de fer",
+      "Lilo et Stitch"
+    ],
+    "right_answer" : 1
+  },
+    "lara" : {
+    "question" : "Qui avait le rôle principale dans Lara Croft Tomb Raider?",
+    "answers" : [
+      "Angelina Jolie",
+      "Jennifer Garner",
+      "Sandra Bullock",
+      "Lucy Liu"
+    ],
+    "right_answer" : 0
+  },
+    "gad" : {
+    "question" : "Dans quel film d'animation Gad Elmaleh prête-il sa voix à Gru?",
+    "answers" : [
+      "WALL-E",
+      "Les indestructibles",
+      "Chicken Run",
+      "Moi Moche et Méchant"
+    ],
+    "right_answer" : 3
+  },
+    "apollo" : {
+    "question" : "Pour quelle réplique le film Apollo 13 est-il connut?",
+    "answers" : [
+      "Il sont de retour",
+      "Nous ne sommes pas seul",
+      "Ayez peur! Ayez très peur!",
+      "Houston on a un problème"
+    ],
+    "right_answer" : 3
+  },
+    "o_connor" : {
+    "question" : "Dans quel film Paul Walker a-til joué le rôle de l'agent du FBI O'Connor?",
+    "answers" : [
+      "Opération Espadon",
+      "Fast and Frous",
+      "Point Break",
+      "Fast and Furious"
+    ],
+    "right_answer" : 3
+  },
+    "singes" : {
+    "question" : "Dans quel film un chimpanzé génétiquement modifié déclenche-t-il la révolte des grands singes?",
+    "answers" : [
+      "Roi de la planète des singes",
+      "Planète des singes: le secret",
+      "Planète des singes: origines",
+      "Né sur la planète des singes"
+    ],
+    "right_answer" : 2
+  },
+    "singe" : {
+    "question" : "Quel est le nom du chimpanzé génétiquement modifié qui a déclanché la révolte des singes dans La planète des singes?",
+    "answers" : [
+      "Koba",
+      "César",
+      "Houba",
+      "Le Marsupilami"
+    ],
+    "right_answer" : 1
+  },
+    "alien" : {
+    "question" : "Qui incarnait Ellen Ripley dans Alien de 1979?",
+    "answers" : [
+      "Jessica Lange",
+      "Meryl Streep",
+      "Sigourney Weaver",
+      "Pam Grier"
+    ],
+    "right_answer" : 2
+  },
+    "avocat" : {
+    "question" : "Qui incarnait l'avocat Jake Brigance dans Le droit de tuer de 1996?",
+    "answers" : [
+      "Brad Pitt",
+      "Chris O'Donnell",
+      "Matt Damon",
+      "Matthew McConaughey"
+    ],
+    "right_answer" : 3
+  },
+    "jack" : {
+    "question" : "Dans Pirate des Caraïbes, Jack dit souvent: Souvenez vous de ce jour mes amis, comme celui...?",
+    "answers" : [
+      "...où vous avez faillit m'attrapper",
+      "...où vous avez faillit capturer le capitaine Barbosa",
+      "...où vous avez faillit capturer Jack Sparrow",
+      "...où vous avez faillit capturer le capitaine Jack Sparrow"
+    ],
+    "right_answer" : 3
+  },
 }
