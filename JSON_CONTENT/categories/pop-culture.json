@@ -718,15 +718,5 @@
       "Tony Hawk"
     ],
     "right_answer" : 3
-  },
-    "" : {
-    "question" : "?",
-    "answers" : [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "right_answer" : 0
   }
 }
