@@ -21,4 +21,8 @@
 	#categories_container {
 		width: 100%;
 	}
+	
+	.category {
+		font-size: 50px;
+	}
 }

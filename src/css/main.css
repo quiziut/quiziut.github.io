@@ -54,3 +54,13 @@ header {
 	position: fixed;
 	right: 10px;
 }
+
+@media screen and (orientation: portrait) {
+	.favicon {
+  		width: 200px;
+	}
+	
+	.quiz {
+		width: 300px;
+	}
+}
