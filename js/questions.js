@@ -79,7 +79,8 @@ function answerClicked(answer, rightOne) {
 	  general_score++
   }
   current++
-  updateItems()
+	updateScore()
+	updateItems()
   clearWindow()
   cpt = originalCpt
   request()

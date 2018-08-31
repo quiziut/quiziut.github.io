@@ -69,3 +69,9 @@
 .homeLink:hover {
   background-color: #718093;
 }
+
+@media screen and (orientation: portrait) {
+	#question_container {
+  		width: 100%;
+	}
+}
