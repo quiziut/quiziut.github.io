@@ -72,6 +72,10 @@
 
 @media screen and (orientation: portrait) {
 	#question_container {
+  		font-size: 30px;
+	}
+	
+	.answers {
   		width: 100%;
 	}
 	

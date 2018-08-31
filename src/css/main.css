@@ -49,16 +49,17 @@ header {
 #score {
 	padding: 20px;
 	border-radius: 5px;
-	background-color: #ecf0f1;
+	background-color: #2ecc71;
 	font-size: 20px;
 	position: fixed;
-	right: 10px;
-	border: 2px solid #bdc3c7;
+	right: 20px;
+	color: white;
+	font-weight: bolder;
 	transition: background-color .2s;
 }
 
 #score:hover {
-	background-color: #bdc3c7;
+	background-color: #27ae60;
 }
 
 #lastupdate {
