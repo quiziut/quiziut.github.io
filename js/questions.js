@@ -8,6 +8,7 @@ let toFetch = url.searchParams.get('c')
 
 var current = 0
 var score = 0
+var general_score = 0
 
 function Timer(fn, t) {
     var timerObj = setInterval(fn, t)
@@ -37,6 +38,7 @@ function Timer(fn, t) {
 function updateItems() {
   localStorage.setItem(toFetch + '_question_number', current)
   localStorage.setItem(toFetch + '_score', score)
+  localStorage.setItem('general_score', general_score)
 }
 
 if(localStorage.getItem(toFetch + '_question_number') == null) updateItems()
@@ -44,6 +46,9 @@ else current = localStorage.getItem(toFetch + '_question_number')
 
 if(localStorage.getItem(toFetch + '_score') == null) updateItems()
 else score = localStorage.getItem(toFetch + '_score')
+
+if(localStorage.getItem('general_score') == null) updateItems()
+else general_score = localStorage.getItem('general_score')
 
 window.onload = () => {
   request()
@@ -56,7 +61,10 @@ function clearWindow() {
 }
 
 function answerClicked(answer, rightOne) {
-  if(answer == rightOne) score++
+  if(answer == rightOne) {
+	  score++
+	  general_score++
+  }
   current++
   updateItems()
   clearWindow()
@@ -78,13 +86,13 @@ var timer = new Timer(function() {
 }, 1000)
 
 function buildQuesion(questions) {
-  setTimeout(() => {
-    cpt = originalCpt
-    timer.start()
-  }, 1000)
   var keys = Object.keys(questions)
   var answers_table = []
   if(current < keys.length) {
+	  setTimeout(() => {
+		cpt = originalCpt
+		timer.start()
+	  }, 1000)
     var question_array = questions[keys[current]]
     var question = document.createElement('h2')
     question.classList.add('question')
@@ -105,7 +113,7 @@ function buildQuesion(questions) {
   } else {
     var endi = document.createElement('h2')
     endi.classList.add('question')
-    endi.innerHTML = 'Vous avez fini les questions pour l\'instant revenez plus tard, votre score actuel est de ' + Math.round(score / keys.length * 100) + '%'
+    endi.innerHTML = 'Vous avez fini les questions pour l\'instant! Votre score actuel est de ' + Math.round(score / keys.length * 100) + '%'
 
     var homeLink = document.createElement('a')
     homeLink.classList.add('homeLink')

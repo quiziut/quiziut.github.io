@@ -12,7 +12,7 @@ header {
 	flex-flow: row;
 	align-items: center;
 	justify-content: space-between;
-  padding: 20px;
+  padding: 10px;
   background-color: white;
   box-shadow: 0 0 200px rgba(0, 0, 0, 0.5);
 
@@ -21,12 +21,20 @@ header {
           box-sizing: border-box;
 }
 
-#favicon {
+.favicon {
   width: 100px;
 }
 
+.quiz {
+	width: 150px;
+}
+
 .center {
+  display: flex;
+  justify-content: 	
   font-size: 2em;
+  align-items: center;
+  align-content: center;	
 }
 
 .container {
@@ -36,4 +44,13 @@ header {
   align-items: center;
   align-content: center;
   padding: 30px;
+}
+
+#score {
+	padding: 20px;
+	border-radius: 5px;
+	background-color: #ecf0f1;
+	font-size: 20px;
+	position: fixed;
+	right: 10px;
 }
