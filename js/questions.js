@@ -10,6 +10,8 @@ var current = 0
 var score = 0
 var general_score = 0
 
+var passedQ = []
+
 function Timer(fn, t) {
     var timerObj = setInterval(fn, t)
 
@@ -36,13 +38,9 @@ function Timer(fn, t) {
 }
 
 function updateItems() {
-  localStorage.setItem(toFetch + '_question_number', current)
   localStorage.setItem(toFetch + '_score', score)
   localStorage.setItem('general_score', general_score)
 }
-
-if(localStorage.getItem(toFetch + '_question_number') == null) updateItems()
-else current = localStorage.getItem(toFetch + '_question_number')
 
 if(localStorage.getItem(toFetch + '_score') == null) updateItems()
 else score = localStorage.getItem(toFetch + '_score')
@@ -58,6 +56,22 @@ function clearWindow() {
   while (question_c.firstChild) {
     question_c.removeChild(question_c.firstChild)
   }
+}
+
+function chooseQuestion(questions) {
+	var keys = Object.keys(questions)
+	var choosen = Math.floor(Math.random() * (keys.length))
+	if(current != 0) {
+		for(var i = 0; i < passedQ.length; i++) {
+			if(choosen == passedQ[i]) {
+				console.log(choosen + ' == ' + passedQ[i])
+				return chooseQuestion(questions)
+			}
+		}
+	}
+	passedQ[current] = choosen
+	console.log('nombre choisi à ' + current + ' : ' + choosen)
+	return choosen
 }
 
 function answerClicked(answer, rightOne) {
@@ -88,12 +102,13 @@ var timer = new Timer(function() {
 function buildQuesion(questions) {
   var keys = Object.keys(questions)
   var answers_table = []
-  if(current < keys.length) {
+  if(current < 10) {
 	  setTimeout(() => {
 		cpt = originalCpt
 		timer.start()
 	  }, 1000)
-    var question_array = questions[keys[current]]
+	var question = chooseQuestion(questions)
+	var question_array = questions[keys[question]]
     var question = document.createElement('h2')
     question.classList.add('question')
     question.innerHTML = question_array['question']
