@@ -53,6 +53,21 @@ header {
 	font-size: 20px;
 	position: fixed;
 	right: 10px;
+	border: 2px solid #bdc3c7;
+	transition: background-color .2s;
+}
+
+#score:hover {
+	background-color: #bdc3c7;
+}
+
+#lastupdate {
+	text-align: center;
+	background-color: #c0392b;
+	font-size: 10px;
+	padding: 5px;
+	border-radius: 3px;
+	color: white;
 }
 
 @media screen and (orientation: portrait) {

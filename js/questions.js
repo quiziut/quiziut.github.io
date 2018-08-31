@@ -43,7 +43,6 @@ function updateItems() {
 }
 
 if(localStorage.getItem(toFetch + '_score') == null) updateItems()
-else score = localStorage.getItem(toFetch + '_score')
 
 if(localStorage.getItem('general_score') == null) updateItems()
 else general_score = localStorage.getItem('general_score')
@@ -128,7 +127,7 @@ function buildQuesion(questions) {
   } else {
     var endi = document.createElement('h2')
     endi.classList.add('question')
-    endi.innerHTML = 'Vous avez fini les questions pour l\'instant! Votre score actuel est de ' + Math.round(score / keys.length * 100) + '%'
+    endi.innerHTML = 'Votre score est de ' + score + ' / 10'
 
     var homeLink = document.createElement('a')
     homeLink.classList.add('homeLink')
