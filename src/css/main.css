@@ -63,4 +63,8 @@ header {
 	.quiz {
 		width: 300px;
 	}
+	
+	#score {
+		font-size: 30px;
+	}
 }
