@@ -74,4 +74,8 @@
 	#question_container {
   		width: 100%;
 	}
+	
+	.answer {
+		font-size: 30px;
+	}
 }
