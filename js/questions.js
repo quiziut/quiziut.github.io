@@ -44,8 +44,14 @@ function updateItems() {
 
 if(localStorage.getItem(toFetch + '_score') == null) updateItems()
 
-if(localStorage.getItem('general_score') == null) updateItems()
-else general_score = localStorage.getItem('general_score')
+if(localStorage.getItem('general_score') == null) {
+	console.log('set general score to 0')
+	updateItems()
+}
+else {
+	general_score = localStorage.getItem('general_score')
+	console.log('get general score ' + general_score)
+}
 
 window.onload = () => {
   request()
@@ -63,13 +69,11 @@ function chooseQuestion(questions) {
 	if(current != 0) {
 		for(var i = 0; i < passedQ.length; i++) {
 			if(choosen == passedQ[i]) {
-				console.log(choosen + ' == ' + passedQ[i])
 				return chooseQuestion(questions)
 			}
 		}
 	}
 	passedQ[current] = choosen
-	console.log('nombre choisi à ' + current + ' : ' + choosen)
 	return choosen
 }
 

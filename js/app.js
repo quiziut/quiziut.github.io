@@ -15,10 +15,11 @@ if(localStorage.getItem('general_score') == null) localStorage.setItem('general_
 else general_score = localStorage.getItem('general_score')
 
 var score_c = document.getElementById('score')
+var inscore_c = document.getElementById('inscore')
 var clickcount = 0
 
 function updateScore() {
-	score_c.innerHTML = general_score
+	inscore_c.innerHTML = general_score
 }
 
 updateScore()
