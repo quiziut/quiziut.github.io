@@ -8,7 +8,6 @@ let toFetch = url.searchParams.get('c')
 
 var current = 0
 var score = 0
-var general_score = 0
 
 var passedQ = []
 
@@ -45,12 +44,10 @@ function updateItems() {
 if(localStorage.getItem(toFetch + '_score') == null) updateItems()
 
 if(localStorage.getItem('general_score') == null) {
-	console.log('set general score to 0')
 	updateItems()
 }
 else {
 	general_score = localStorage.getItem('general_score')
-	console.log('get general score ' + general_score)
 }
 
 window.onload = () => {
