@@ -49,10 +49,9 @@ header {
 #score {
 	padding: 20px;
 	border-radius: 5px;
-/*	background-color: #2ecc71;*/
-	background-image: url('../images/score_badge.png');
+	background-color: #2ecc71;
+	border-radius: 5px;
 	background-size: cover;
-	width: 27px;
 	align-self: center;
 	display: flex;
 	justify-content: center;

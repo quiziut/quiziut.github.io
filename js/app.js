@@ -29,7 +29,7 @@ score_c.addEventListener('click', () => {
 	console.log(localStorage.getItem('score_click_found'))
 	if(clickcount == 10 && localStorage.getItem('score_click_found') != "true") {
 		general_score = parseInt(general_score)
-		general_score += 100
+		general_score += 500
 		localStorage.setItem('general_score', general_score)
 		updateScore()
 		localStorage.setItem('score_click_found', true)
