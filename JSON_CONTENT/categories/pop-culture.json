@@ -140,7 +140,7 @@
     "right_answer" : 2
   },
      "kratos" : {
-    "question" : "Quel est le premier dieu que Katos, dans God of War, tue?",
+    "question" : "Quel est le premier dieu que Kratos, dans God of War, tue?",
     "answers" : [
       "Athéna",
       "Hadès",
@@ -409,7 +409,7 @@
     ],
     "right_answer" : 1
   },
-    "" : {
+    "gandalf" : {
     "question" : "Que prononce Gandalf pour entrer dans la grotte où se trouve le Balrog?",
     "answers" : [
       "VOUS NE PASSEREZ PAS!",
@@ -718,5 +718,45 @@
       "Tony Hawk"
     ],
     "right_answer" : 3
+  },
+     "zombie" : {
+    "question" : "Comment s’appelle le personnage principal dans la série d’horreur The Walking Dead?",
+    "answers" : [
+      "Rick Grimmes",
+      "Dominic Toretto",
+      "Hank Griffin",
+      "Walter White"
+    ],
+    "right_answer" : 0
+  },
+     "prison" : {
+    "question" : "Quel est le nom de la prison où a été incarcéré Michael Scofield dans la série Prison Break?",
+    "answers" : [
+      "Fox River",
+      "Sona",
+      "Prison Break",
+      "Miami Dade"
+    ],
+    "right_answer" : 0
+  },
+     "vile" : {
+    "question" : "Dans quelle série phénomène diffusée sur Netflix depuis décembre 2017 les personnages ont-ils des noms de ville?",
+    "answers" : [
+      "13 Reason Why",
+      "Alert à Malibu",
+      "House of Card",
+      "La Casa De Papel"
+    ],
+    "right_answer" : 3
+  },
+     "blague" : {
+    "question" : "Qu'est ce qui est jaune et qui attend?",
+    "answers" : [
+      "Donatien",
+      "John",
+      "Johnatan",
+      "Gaëtan"
+    ],
+    "right_answer" : 2
   }
 }

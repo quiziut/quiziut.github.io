@@ -19,5 +19,936 @@
     ],
     "right_answer" : 0
   },
+    
+    "volley" : {
+    "question" : "A quelle hauteur s'élève un filet de volley-ball ?",
+    "answers" : [
+      "1,43 mètres",
+      "2,43 mètres",
+      "3,43 mètres",
+      "4,43 mètres"
+    ],
+    "right_answer" : 1
+  },
+    "escrime" : {
+    "question" : "En escrime, quelle est la troisième arme blanche avec l'épée et le fleuret ?",
+    "answers" : [
+      "Le sabre",
+      "Le yatagan",
+      "Le poignard",
+      "Le claymore"
+    ],
+    "right_answer" : 1
+    },
+    "halterophile" : {
+    "question" : "L'haltérophile qui fait un épaulé-jeté soulève sa charge en ?",
+    "answers" : [
+      "2 temps",
+      "3 temps",
+      "6 temps",
+      "8 temps"
+    ],
+    "right_answer" : 0
+    },
+    "surface" : {
+    "question" : "Comment s'appelle la surface de gazon qui entoure le trou au golf ?",
+    "answers" : [
+      "Le spleen",
+      "Le spin",
+      "Le green",
+      "La marque"
+    ],
+    "right_answer" : 2
+    },
+    "rugbyquinze" : {
+    "question" : "Combien de points vaut un essai de rugby à XV?",
+    "answers" : [
+      "1",
+      "2",
+      "4",
+      "5"
+    ],
+    "right_answer" : 3
+    },
+    "bowling" : {
+    "question" : "Combien y a-t-il de quilles sur un terrain de bowling en France ?",
+    "answers" : [
+      "5",
+      "10",
+      "12",
+      "15"
+    ],
+    "right_answer" : 1
+    },
+    "cricket" : {
+    "question" : "Les buts au jeu de cricket se nomment...",
+    "answers" : [
+      "Les arcades",
+      "Les arceaux",
+      "Les guichets",
+      "Les cages "
+    ],
+    "right_answer" : 2
+    },
+    "tennis" : {
+    "question" : "Au tennis, que peut-on crier lorsque la balle touche le haut du filet ?",
+    "answers" : [
+      "JET",
+      "SET",
+      "YET",
+      "LET"
+    ],
+    "right_answer" : 3
+    },
+    "strike" : {
+    "question" : "Dans quel sport emploie-t-on les termes suivants : split, spare, strike ?",
+    "answers" : [
+      "La pétanque",
+      "Le billard",
+      "Le bowling",
+      "Le tir à l'arc"
+    ],
+    "right_answer" : 2
+    },
+    "ceintures" : {
+    "question" : "Au judo, quel est le grade le plus élevé parmi ces ceintures ?",
+    "answers" : [
+      "Bleue",
+      "Orange",
+      "Verte",
+      "Jaune"
+    ],
+    "right_answer" : 0
+    },
+    "sebastien" : {
+    "question" : "Dans quelle discipline sportive s’est illustré le français Sebastien Loeb ?",
+    "answers" : [
+      "Motocross",
+      "Rallye automobile sur route",
+      "Course auto d’endurance sur circuit",
+      "Formule 1"
+    ],
+    "right_answer" : 1
+    },
+    "voilesolo" : {
+    "question" : " Laquelle de ces courses à la voile est une course en solitaire ?",
+    "answers" : [
+      "Le Vendée Globe",
+      "La Volvo Océan Race",
+      "Le trophée Jules Verne",
+      "Golden Ocean Race"
+    ],
+    "right_answer" : 0
+    },
+    "sixnations" : {
+    "question" : "En rugby, quel pays ne participe pas au tournoi des Six-Nations ?",
+    "answers" : [
+      "L'Angleterre",
+      "La France",
+      "L'Espagne",
+      "L'Italie"
+    ],
+    "right_answer" : 2
+    },
+    "bad" : {
+    "question" : "Depuis quelle année le badminton est devenu une discipline olympique ?",
+    "answers" : [
+      "1980",
+      "1992",
+      "2000",
+      "2004"
+    ],
+    "right_answer" : 1
+    },
+    "paysfun" : {
+    "question" : "Quel est le seul pays d’Amérique du Sud qui accueille un Grand Prix de Formule 1 ?",
+    "answers" : [
+      "Le Brésil",
+      "L'Argentine",
+      "Le Chili",
+      "La Bolivie"
+    ],
+    "right_answer" : 1
+    },
+    "nba" : {
+    "question" : "Que signifie NBA?",
+    "answers" : [
+      "La National Boxe Association",
+      "La National Base-ball Association",
+      "La National Basketball Association",
+      "La National Boat Association"
+    ],
+    "right_answer" : 2
+    },
+    "ali" : {
+    "question" : "Contre qui a combattu Mohamed Ali lors d’un combat mémorable se déroulant à Kinshasa ?",
+    "answers" : [
+      "George Foreman",
+      "Sonny Liston",
+      "Michael Moorer",
+      "Super-Man"
+    ],
+    "right_answer" : 1
+    },
+    "handball" : {
+    "question" : "Le handball est d’origine...",
+    "answers" : [
+      "Danoise",
+      "Suédoise",
+      "Allemande",
+      "Française"
+    ],
+    "right_answer" : 2
+    },
+    "handbest" : {
+    "question" : "Quelle est la seule équipe nationnale d'handball qui a réussi l'exploit de remporter 4 grandes compétitions d'affilée?",
+    "answers" : [
+      "Allemagne",
+      "France",
+      "Espagne",
+      "Etats-Unis"
+    ],
+    "right_answer" : 1
+    },
+    "tarzan" : {
+    "question" : "Johnny Weissmuller, fameux interprète de Tarzan au cinéma, était auparavant un champion ?",
+    "answers" : [
+      "De boxe",
+      "D'athlétisme",
+      "De natation",
+      "D'escalade"
+    ],
+    "right_answer" : 2
+    },
+    "maindedieu" : {
+    "question" : "Quel célèbre footballeur a appellé un but de la main La main de Dieu?",
+    "answers" : [
+      "Pelé",
+      "Messi",
+      "Maradonna",
+      "Thierry Henry"
+    ],
+    "right_answer" : 2
+    },
+    "pele" : {
+    "question" : "Combien de coupe du monde a gagné Pelé?",
+    "answers" : [
+      "0",
+      "1, c'est déjà pas mal",
+      "2, très honorable",
+      "3, pouloulouuu"
+    ],
+    "right_answer" : 3
+    },
+    "petit" : {
+    "question" : "Quel joueur de foot français est surnommé Petit Vélo?",
+    "answers" : [
+      "Dimitri Payet",
+      "Antoine Griezmann",
+      "Mathieu Valbuena",
+      "Frank Ribéry"
+    ],
+    "right_answer" : 2
+    },
+    "nadal" : {
+    "question" : "Pourquoi Nadal est-t-il surnommé El Matador?",
+    "answers" : [
+      "Son Attitude de vainqueur",
+      "Sa maitrise des taureaux",
+      "Son style vestimentaire",
+      "Ses cheveux"
+    ],
+    "right_answer" : 0
+    },
+    "vnadal" : {
+    "question" : "Combien de fois Nadal a-t-il gagné Rolland Garros?",
+    "answers" : [
+      "6",
+      "7",
+      "10",
+      "11"
+    ],
+    "right_answer" : 3
+    },
+    "touchdown" : {
+    "question" : "Field goal, kickoff, touchdown sont des termes utilises au...",
+    "answers" : [
+      "Soccer",
+      "Rugby",
+      "Base-Ball",
+      "Foot-Ball Américain"
+    ],
+    "right_answer" : 3
+    },
+    "jodo" : {
+    "question" : "Dans les arts martiaux, comment appelle-t-on la tenue d'un judoka ?",
+    "answers" : [
+      "Un Obi",
+      "Un Judogi",
+      "Un Gi",
+      "Un Dan"
+    ],
+    "right_answer" : 1
+    },
+    "paul" : {
+    "question" : "Le fils d'un acteur français, prénommé Paul, s'est lancé dans la compétition automobile. Comment s'appelle cet acteur ?",
+    "answers" : [
+      "Alain Delon",
+      "Gérard Depardieu",
+      "Jean Paul Belmondo",
+      "Daniel Auteil"
+    ],
+    "right_answer" : 2
+    },
+    "planchesurf" : {
+    "question" : "Comment nomme-t-on la forme d'une planche de surf ?",
+    "answers" : [
+      "Le spot",
+      "Le stand up",
+      "Le shape",
+      "Le pin"
+    ],
+    "right_answer" : 1
+    },
+    "arbitrefr" : {
+    "question" : "Pour quel sport les arbitres sont-ils obligés d'utiliser la langue française ?",
+    "answers" : [
+      "La lutte",
+      "L'escrime",
+      "La boxe française",
+      "L'équitation"
+    ],
+    "right_answer" : 1
+    },
+    "surface" : {
+    "question" : "De ces quatre disciplines, laquelle utilise la plus petite surface de jeu ?",
+    "answers" : [
+      "Le tennis",
+      "Le basket",
+      "Le volley",
+      "Le handball"
+    ],
+    "right_answer" : 2
+    },
+    "magasin" : {
+    "question" : "Si vous entrez dans un magasin de sport en demandant un \"sand wedge\", vous ressortirez avec...",
+    "answers" : [
+      "Un club de golf",
+      "Une cravache",
+      "Une planche à voile",
+      "Une tranche de jambon entre deux tranches de pain"
+    ],
+    "right_answer" : 0
+    },
+    "cible" : {
+    "question" : "Dans quelle discipline doit-on toucher une cible de 5 cm de diamètre ?",
+    "answers" : [
+      "Au ball-trap",
+      "Aux fléchettes",
+      "En parachutisme",
+      "Au tir à l'arc"
+    ],
+    "right_answer" : 3
+    },
+    "mada" : {
+    "question" : "Quel est le sport national de Madagascar?",
+    "answers" : [
+      "Le judo",
+      "Le badminton",
+      "La pétanque",
+      "Le jokari"
+    ],
+    "right_answer" : 2
+    },
+    "hongrie" : {
+    "question" : "Quel est le sport national en Hongrie?",
+    "answers" : [
+      "Lejudo",
+      "Le badminton",
+      "Le rugby",
+      "Le foot-balle"
+    ],
+    "right_answer" : 3
+    },
+    "casque" : {
+    "question" : "La première course automobile officielle s'étant déroulée en 1895 (Paris-Bordeaux-Paris), en quelle année a été rendu obligatoire le port du casque pour cette discipline?",
+    "answers" : [
+      "1896",
+      "1923",
+      "1952",
+      "1964"
+    ],
+    "right_answer" : 2
+    },
+    "pentatlon" : {
+    "question" : "Après l'équitation, le tir au pistolet, la natation et le cross-country, quelle est la cinquième épreuve du pentathlon moderne?",
+    "answers" : [
+      "L'escrime",
+      "Le lancement de poids",
+      "Le cyclisme",
+      "Le lancé de javelot"
+    ],
+    "right_answer" : 0
+    },
+    "levier" : {
+    "question" : "A quelle vitesse peut courir un lévrier de course?",
+    "answers" : [
+      "40 km/h",
+      "50 km/h",
+      "60 km/h",
+      "70 km/h"
+    ],
+    "right_answer" : 2
+    },
+    "walter" : {
+    "question" : "Walter Morrisson met au point le frisbee en voyant des étudiants jouer avec...?",
+    "answers" : [
+      "Des enjoliveurs de voitures",
+      "Des moules à tartes",
+      "Des assiettes en porcelaine",
+      "Des disques de Dorothée"
+    ],
+    "right_answer" : 1
+    },
+    "chevaux" : {
+    "question" : "Pour que la course soit équitable, les chevaux de même âge doivent porter le même poids. Pour cela : ?",
+    "answers" : [
+      "Des sacs de sable sont fixés à la selle",
+      "Des tubes de mercure sont placés derrière la selle",
+      "Le jockey porte des rouleaux de pièces de monnaie ",
+      "Des feuilles de plomb sont installées sous la selle"
+    ],
+    "right_answer" : 3
+    },
+    "americain" : {
+    "question" : "Au football américain, quand une équipe entre avec le ballon dans l'en-but adverse, cela s'appelle : ?",
+    "answers" : [
+      "Un essai",
+      "Un Touch In",
+      "Un Touchdown",
+      "Un kick-off"
+    ],
+    "right_answer" : 2
+    },
+    "petanque" : {
+    "question" : "Parmi ces quatre mots, lequel ne désigne pas le cochonnet à la pétanque ?",
+    "answers" : [
+      "Le bouchon",
+      "Le but",
+      "Le petit",
+      "Le fanny"
+    ],
+    "right_answer" : 3
+    },
+    "foot" : {
+    "question" : "1872 a vu la création du premier club de football. C'était... ?",
+    "answers" : [
+      "Le Havre Atletic Club",
+      "Le Sheffield Wednesday",
+      "Auxerre Foot-ball Club",
+      "Paris Olympic Club"
+    ],
+    "right_answer" : 1
+    },
+    "mitemps" : {
+    "question" : "Dans quel sport les mi-temps durent 40 minutes chacune?",
+    "answers" : [
+      "Le football",
+      "Le handball",
+      "Le rugby",
+      "Le basket-ball"
+    ],
+    "right_answer" : 2
+    },
+    "queu" : {
+    "question" : "A l'origine, avec quel matériau étaient faites les queues de billard?",
+    "answers" : [
+      "Identiques aux queues actuelles",
+      "Entièrement en ivoire",
+      "En bois, et recourbées",
+      "En or"
+    ],
+    "right_answer" : 2
+    },
+    "polo" : {
+    "question" : "Au polo, que font généralement les spectateurs entre 2 périodes?",
+    "answers" : [
+      "Ils nettoient les chevaux",
+      "Ils rebouchent les trous du terrain",
+      "Ils vont se poser au bistrot du coin",
+      "Ils vont tirer un coup"
+    ],
+    "right_answer" : 1
+    },
+    "hockey" : {
+    "question" : "Combien de périodes compte un match de hockey sur glace?",
+    "answers" : [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "right_answer" : 0
+    },
+    "bowling" : {
+    "question" : "Le score maximum pour une partie de bowling est de...",
+    "answers" : [
+      "200 points",
+      "300 points",
+      "400 points",
+      "500 points"
+    ],
+    "right_answer" : 1
+    },
+    "gants" : {
+    "question" : "Quelle discipline nécessite le port de gants d'environ 200 grammes et d'une coquille ?",
+    "answers" : [
+      "La boxe",
+      "La boxe Taï",
+      "Le karaté",
+      "La préparation athlétique d'omelette"
+    ],
+    "right_answer" : 0
+    },
+    "aviron" : {
+    "question" : "Quel est le nombre maximum de rameurs en Aviron?",
+    "answers" : [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "right_answer" : 1
+    },
+    "haies" : {
+    "question" : "Lors d'un 110 m, les athlètes doivent sauter 10 haies. Pour un 400 m, ils doivent en sauter?",
+    "answers" : [
+      "Autant",
+      "Deux fois plus",
+      "Trois fois plus",
+      "Quatre fois plus"
+    ],
+    "right_answer" : 0
+    },
+    "sumo" : {
+    "question" : "Avant un combatde sumo, que jettent les particpants au centre de la piste ?",
+    "answers" : [
+      "Du sable",
+      "Du sel",
+      "Du poivre",
+      "Des albums de Psy"
+    ],
+    "right_answer" : 1
+    },
+    "devinette" : {
+    "question" : "⦁	Qu'est-ce qui fait 11 cm de diamètre pour un poids de 110 grammes?",
+    "answers" : [
+      "Un palet de hockey",
+      "Une quille de bowling",
+      "Une balle de polo",
+      "Un plateau de ball-trap "
+    ],
+    "right_answer" : 3
+    },
+    "golfeur" : {
+    "question" : "Lequel de ces quatre noms ne fait pas partie du vocabulaire du golfeur?",
+    "answers" : [
+      "Birdie",
+      "Cacatoès",
+      "Albatros",
+      "Eagles"
+    ],
+    "right_answer" : 1
+    },
+    "art" : {
+    "question" : "Quel art utilise un sabre en lamelles de bambou?",
+    "answers" : [
+      "Le Kendo",
+      "Le Kyudo",
+      "Le Tae Kwon Do",
+      "Le Viet-vo-dao "
+    ],
+    "right_answer" : 0
+    },
+    "poudre" : {
+    "question" : "Dans quel sport n'avez-vous pas besoin de magnésie?",
+    "answers" : [
+      "Haltérophilie",
+      "Barre fixe",
+      "Cheval d'arçon",
+      "Equitation"
+    ],
+    "right_answer" : 3
+    },
+    "cage" : {
+    "question" : "Quelle est la largeur d'un but de football?",
+    "answers" : [
+      "6m12",
+      "7m32",
+      "8m62",
+      "9m92"
+    ],
+    "right_answer" : 1
+    },
+    "tennis" : {
+    "question" : "Au tennis, les très fameux Mousquetaires se composaient de Borotra, Cochet, Lacoste et...",
+    "answers" : [
+      "Pêche",
+      "Brugnon",
+      "Nectarine",
+      "Melon"
+    ],
+    "right_answer" : 1
+    },
+    "ancetre" : {
+    "question" : "Quel est l'ancêtre du rugby?",
+    "answers" : [
+      "La serre",
+      "Le calcio",
+      "La soule",
+      "Le Byrug"
+    ],
+    "right_answer" : 2
+    },
+    "planche" : {
+    "question" : "Qu'est-ce que le wishbone d'une planche à voile?",
+    "answers" : [
+      "Le guidon de la planche",
+      "Le mât",
+      "La voile",
+      "L’ancre"
+    ],
+    "right_answer" : 0
+    },
+    "stade" : {
+    "question" : "Quelle équipe de football joue au White Hart Lane?",
+    "answers" : [
+      "Arsenal",
+      "Chelsea",
+      "West Ham United",
+      "Tottenham Hotspur"
+    ],
+    "right_answer" : 3
+    },
+    "real" : {
+    "question" : "Le surnom du Real Madrid est...",
+    "answers" : [
+      "Los Azules",
+      "Los Verdes",
+      "Los Blancos",
+      "Los Rojos"
+    ],
+    "right_answer" : 2
+    },
+    "david" : {
+    "question" : "David Beckham a joué pour quel grand club espagnol?",
+    "answers" : [
+      "Barcelone",
+      "Valence",
+      "Athletico Madrid",
+      "Real Madrid"
+    ],
+    "right_answer" : 3
+    },
+    "pablo" : {
+    "question" : "Andrès Escobar fut assassiné dix jours après avoir marqué un but contre son camps pendant la coupe du monde 1994. Quel pays l'organisait?",
+    "answers" : [
+      "La Chine",
+      "La Colombie",
+      "Le Portugal",
+      "Le Vénézuela"
+    ],
+    "right_answer" : 1
+    },
+    "freq" : {
+    "question" : "A quelle fréquence a lieu le Super Bowl américain?",
+    "answers" : [
+      "Tout les mois",
+      "Tout les ans",
+      "Tout les quatre ans",
+      "Tout les cinq ans"
+    ],
+    "right_answer" : 1
+    },
+    "nationalté" : {
+    "question" : "Quelle est la nationalité du Ronaldo surnommé R9?",
+    "answers" : [
+      "Portugaise",
+      "Colombienne",
+      "Brésilienne",
+      "Espagnole"
+    ],
+    "right_answer" : 2
+    },
+    "ryder" : {
+    "question" : "La Ryder Cup est contesté dans quel sport?",
+    "answers" : [
+      "La Voile",
+      "La Course",
+      "Ice Hockey",
+      "Le Golf"
+    ],
+    "right_answer" : 3
+    },
+    "couleur" : {
+    "question" : "Quelle est la couleur traditionnelle des maillots des équipes néerlandaises?",
+    "answers" : [
+      "Violet",
+      "Rouge",
+      "Orange",
+      "Blanc"
+    ],
+    "right_answer" : 2
+    },
+    "federer" : {
+    "question" : "Quelle est la nationalité du célèbre joueur de tennis Roger Federer?",
+    "answers" : [
+      "Américaine",
+      "Suisse",
+      "Espagnole",
+      "Anglaise"
+    ],
+    "right_answer" : 1
+    },
+    "sportvieux" : {
+    "question" : "Quel sport devient populaire aux Etats Unis vers 1930, en partie grâce au nouveau volant du détaillant de Seattle Eddie Bauer?",
+    "answers" : [
+      "Running",
+      "La Chasse à l'Homme",
+      "La Chasse au Gibier",
+      "Badminton"
+    ],
+    "right_answer" : 3
+    },
+    "utah" : {
+    "question" : "Quel sport est pratiqué par l'équipe Utah Jazz?",
+    "answers" : [
+      "Football Américain",
+      "Baseball",
+      "Basket",
+      "Ice Hockey"
+    ],
+    "right_answer" : 2
+    },
+    "ali" : {
+    "question" : "En 1986 la Chine leva l'interdiction de pratiquer quel sport, suite à une visite de Muhammad Ali?",
+    "answers" : [
+      "Boxe",
+      "Rugby",
+      "Football",
+      "Tir à l'arc"
+    ],
+    "right_answer" : 0
+    },
+    "equipe" : {
+    "question" : "Quel est le sport que pratique l'équipe des Chicago Bears?",
+    "answers" : [
+      "Baseball",
+      "Ice Hockey",
+      "Basket",
+      "Football Amércain"
+    ],
+    "right_answer" : 3
+    },
+    "biathlon" : {
+    "question" : "Le biathlon associe le ski à quelle autre discipline?",
+    "answers" : [
+      "Tir à l'arc",
+      "Tir à la carabine",
+      "Fléchettes",
+      "Lancé de nain"
+    ],
+    "right_answer" : 1
+    },
+    "coupe_stan" : {
+    "question" : "Quel sport récompense la coupe Stanley?",
+    "answers" : [
+      "Equestre",
+      "Le croquet",
+      "Ice Hockey",
+      "Le golf"
+    ],
+    "right_answer" : 2
+    },
+    "hommage" : {
+    "question" : "Lors de quelle rencontre la marseillaise a-t-elle été chanté deux fois en hommage des attentats de novembre 2015?",
+    "answers" : [
+      "France-Belgique",
+      "France-Angleterre",
+      "France-Allemagne",
+      "France-Italie"
+    ],
+    "right_answer" : 1
+    },
+    "jeux" : {
+    "question" : "En quelle année les Jeux Olympiques d'été se sont déroulés à Montréal?",
+    "answers" : [
+      "1980",
+      "1978",
+      "1976",
+      "1974"
+    ],
+    "right_answer" : 2
+    },
+    "boule" : {
+    "question" : "Au billard américain, de quelle couleur est la boule numéro 8?",
+    "answers" : [
+      "Jaune",
+      "Bleue",
+      "Violette",
+      "Noire"
+    ],
+    "right_answer" : 3
+    },
+    "new_york" : {
+    "question" : "Quel sport est pratiqué par l'équipe New York Yankees?",
+    "answers" : [
+      "Football américain",
+      "Hockey",
+      "Basket",
+      "Baseball"
+    ],
+    "right_answer" : 3
+    },
+    "bills" : {
+    "question" : "Les Bills sont une équipe de football NFL jouant dans quelle ville?",
+    "answers" : [
+      "Buffalo",
+      "Denver",
+      "Washington",
+      "Pittsburgh"
+    ],
+    "right_answer" : 0
+    },
+    "nba" : {
+    "question" : "En 2006 quel est le pays qui a fourni le MVP NBA Steve Nash, le MVP American League Justin Morneau et le MVP NHL Joe Thornton?",
+    "answers" : [
+      "Irlande",
+      "Grand Bretagne",
+      "Canada",
+      "Australie"
+    ],
+    "right_answer" : 2
+    },
+    "mvp" : {
+    "question" : "Que signifie MVP au basket?",
+    "answers" : [
+      "Most Viewers Player",
+      "Most Victimized Player",
+      "Most Value for a Player",
+      "Most Valuable Player"
+    ],
+    "right_answer" : 3
+    },
+    "fun" : {
+    "question" : "En Formule 1, sous quel drapeau le jeune Max Verstappen pilote-t-il en 2015?",
+    "answers" : [
+      "Etats Unis",
+      "Russie",
+      "Irlande",
+      "Pays-Bas"
+    ],
+    "right_answer" : 3
+    },
+    "croquet" : {
+    "question" : "Quel est le nombre maximum de joueur dans une partie de croquet?",
+    "answers" : [
+      "2",
+      "3",
+      "4",
+      "11"
+    ],
+    "right_answer" : 2
+    },
+    "L'espagnol Alberto Contador est champion dans quel sport" : {
+    "question" : "?",
+    "answers" : [
+      "Corrida",
+      "Tennis",
+      "Course de moto",
+      "Cyclisme"
+    ],
+    "right_answer" : 3
+    },
+    "kelly" : {
+    "question" : "Kelly Holmes, qui a gagné le 880m/1500m en double aux Jeux Olympiques de 2004 représentait quelle nation?",
+    "answers" : [
+      "Grande Bretagne",
+      "Etats Unis",
+      "Le Canada",
+      "Le Kenya"
+    ],
+    "right_answer" : 0
+    },
+    "record" : {
+    "question" : "En 1954, qui a battu le record du suedois Gunter Hagg de deux secondes en courant le mile en 4minutes et 1,4 secondes?",
+    "answers" : [
+      "Sebastien Coe",
+      "John Landy",
+      "Roger Bannister",
+      "Jim Ryun"
+    ],
+    "right_answer" : 2
+    },
+    "but" : {
+    "question" : "Quel joueur de légende a marqué un doublé lors de final de la coupe du monde organisée en France?",
+    "answers" : [
+      "Ronaldo",
+      "Thierry Henry",
+      "Zinédine Zidane",
+      "Eder"
+    ],
+    "right_answer" : 2
+    },
+    "euro" : {
+    "question" : "Quel joueur marque au But en Or lors de la final de l'euro 2000, et sacre ainsi son équipe championne d'Europe?",
+    "answers" : [
+      "Trezeguet",
+      "Zidane",
+      "Pirlo",
+      "Totti"
+    ],
+    "right_answer" : 0
+    },
+    "point" : {
+    "question" : "Dans quel sport peut-on commencer avec un score de 301 ou 501 points et espérer finir avec exactement 0 points?",
+    "answers" : [
+      "Le jeu du fer à cheval",
+      "Le golf",
+      "Les fléchettes",
+      "Le pont"
+    ],
+    "right_answer" : 2
+    },
+    "triathlon" : {
+    "question" : "Le parcours de quel triathlon se terminait traditionnelement à la Aloha Tower?",
+    "answers" : [
+      "Shazam",
+      "Iron Man",
+      "Superman",
+      "Flash"
+    ],
+    "right_answer" : 1
+    },
+    "safety" : {
+    "question" : "Combien de points sont attribués pour un safety en football américain?",
+    "answers" : [
+      "2",
+      "4",
+      "3",
+      "6"
+    ],
+    "right_answer" : 0
+    },
+    "ski" : {
+    "question" : "Laquelle de ces propositions ne désigne pas une des six disciplines du ski acrobatique?",
+    "answers" : [
+      "Le combiné",
+      "Le skicross",
+      "Les bosses en parallèle",
+      "Les bosses"
+    ],
+    "right_answer" : 0
+    }
 }
 

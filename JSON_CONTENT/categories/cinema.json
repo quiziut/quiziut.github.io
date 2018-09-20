@@ -128,5 +128,105 @@
       "...où vous avez faillit capturer le capitaine Jack Sparrow"
     ],
     "right_answer" : 3
-  }
+      },
+    "aste" : {
+    "question" : "Par quoi commencait la célèbre tirade improvisée d'Edouard Baer qui jouait Otis dans Astérix Mission Cléopatre?",
+    "answers" : [
+      "Oui Nuérobis, c'est une très bonne position",
+      "Vous savez je n'pense pas qu'il y ait de bonne ou de mauvaise positions",
+      "Moi j'pense que vous ètes un abruti",
+      "Ju-ju-jul"
+    ],
+    "right_answer" : 1
+  },
+      "freddy" : {
+    "question" : "Quel est le nom de famille de Freddy dans la saga d’éprouvante Freddy, les griffes de la nuit?",
+    "answers" : [
+      "Kuster",
+      "Krueger",
+      "Grouger",
+      "Kraven"
+    ],
+    "right_answer" : 1
+  },
+     "disney" : {
+    "question" : "Quel est le premier long métrage de Disney?",
+    "answers" : [
+      "Cendrillon",
+      "La petite sirène",
+      "Mickey Mouse",
+      "Blanche Neige"
+    ],
+    "right_answer" : 3
+  },
+     "replique" : {
+    "question" : "De quel film français est tirée cette réplique culte « Ma chambre tu l’aimes ou tu la quittes?",
+    "answers" : [
+      "Neuilly sa mère!",
+      "Il reste du jambon?",
+      "La vie d'Adèle",
+      "Un village presque parfait"
+    ],
+    "right_answer" : 0
+  },
+     "wonder_woman" : {
+    "question" : "Qui est la réalisatrice du film Wonder Woman?",
+    "answers" : [
+      "Jane Fonda",
+      "Michelle MacLaren",
+      "Patty Jenkins",
+      "Elisabeth Banks"
+    ],
+    "right_answer" : 2
+  },
+     "msix" : {
+    "question" : "Dans quelle série diffusée sur M6 tous les matins a été entendue cette phrase: Je t’aime une fois, je t’aime deux fois, je t’aime plus que le riz et les petits pois?",
+    "answers" : [
+      "Femme fatale",
+      "Desperate Housewives",
+      "Beverly Hills",
+      "La vie d’une femme"
+    ],
+    "right_answer" : 1
+  },
+     "jedi" : {
+    "question" : "Quel Jedi meurt dans l’épisode 8 Star Wars Les Derniers Jedi?",
+    "answers" : [
+      "Yoda",
+      "Obi-Wan Kenobi",
+      "Luke Skywalker",
+      "Mace Windu"
+    ],
+    "right_answer" : 2
+  },
+     "tarantino" : {
+    "question" : "Lequel de ces films est de Quentin Tarantino?",
+    "answers" : [
+      "Jurassic Park",
+      "Les oiseaux",
+      "The Conjuring",
+      "Pulp Fiction"
+    ],
+    "right_answer" : 3
+  },
+     "harry" : {
+    "question" : "Lequel de ces 4 titres n’est pas un titre de la saga Harry Potter?",
+    "answers" : [
+      "Harry Potter et la Coupe de feu",
+      "Harry Potter et le Prince de sang-mêlé",
+      "Harry Potter et le Prisonnier d’Ouzbékistan",
+      "Harry Potter et l’Ordre du phénix"
+    ],
+    "right_answer" : 2
+  },
+     "mmaudit" : {
+    "question" : "De quel film est inspiré Maltazar dans Arthur et les Minimoys?",
+    "answers" : [
+      "Maltazar",
+      "M le Maudit",
+      "M le terrible",
+      "Latyranie de M"
+    ],
+    "right_answer" : 1
+  },
 }

@@ -202,7 +202,7 @@
     "right_answer" : 0
   },
 "NTM_membre" : {
-    "question" : "Qui sont les deux rappeur du groupe NTM",
+    "question" : "Qui sont les deux rapeurs du groupe NTM",
     "answers" : [
       "Booba et Kaaris",
       "Nekfeu et Orelsan",
@@ -302,7 +302,7 @@
     "right_answer" : 3
   },
     "chanson_equipe_de_france" : {
-    "question" : "Quel était la chanson qui représentait la france durant la coupe du monde 1998?",
+    "question" : "Quel était la chanson qui représentait la France durant la coupe du monde 1998?",
     "answers" : [
       "Allumez le Feu de Johnny Halliday",
       "I Will Survive de Gloria Gaynor",
@@ -382,7 +382,7 @@
     "right_answer" : 2
   },
     "utwo" : {
-    "question" : "Quelle chanson de U2a été élue chanson de l'année 2000 lors des Grammy Awards?",
+    "question" : "Quelle chanson de U2 a été élue chanson de l'année 2000 lors des Grammy Awards?",
     "answers" : [
       "One",
       "With or Without You",
@@ -442,7 +442,7 @@
     "right_answer" : 0
   },
     "david_guetta" : {
-    "question" : "Avec quel rappeur David Guetta a-t-il sorti le tube Sweat?",
+    "question" : "Avec quel rapeur David Guetta a-t-il sorti le tube Sweat?",
     "answers" : [
       "Jay Z",
       "50 cent",
@@ -452,7 +452,7 @@
     "right_answer" : 2
   },
     "cuba_rock" : {
-    "question" : "Comment s'appelle l'organisme qui représente les rockeur à Cuba?",
+    "question" : "Comment s'appelle l'organisme qui représente les rockeurs à Cuba?",
     "answers" : [
       "L'agence cubaine du rock",
       "Rock for cuba",
@@ -482,7 +482,7 @@
     "right_answer" : 1
   },
     "jonhny_halliday" : {
-    "question" : "Quel est le vrai nom de Johny Halliday?",
+    "question" : "Quel est le vrai nom de Johnny Halliday?",
     "answers" : [
       "Pierre Garand",
       "Patrick Chouchayan",
@@ -502,7 +502,7 @@
     "right_answer" : 0
   },
     "vivaldi" : {
-    "question" : "Combien de siasons pour Vivaldi?",
+    "question" : "Combien de saisons pour Vivaldi?",
     "answers" : [
       "Une",
       "Deux",
@@ -682,7 +682,7 @@
     "right_answer" : 0
   },
        "nirvana" : {
-    "question" : "Quand et par qui a été créé le groupe Nivana?",
+    "question" : "Quand et par qui a été créé le groupe Nirvana?",
     "answers" : [
       "1986 par Dave Grohl et Chad Channing",
       "1987 par Kurt Cobain et Krist Novoselic",
@@ -842,7 +842,7 @@
     "right_answer" : 2
   },
           "genre_pink_floyd" : {
-    "question" : "Quel genre mudical ne joue pas le groupe Pink Floyd?",
+    "question" : "Quel genre musical ne joue pas le groupe Pink Floyd?",
     "answers" : [
       "Rock Psychadélique",
       "Acid Rock",
@@ -912,7 +912,7 @@
     "right_answer" : 1
   },
           "instru_charles" : {
-    "question" : "De quels intrument Ray Charles n'a pas joué?",
+    "question" : "De quels intruments Ray Charles n'a pas joué?",
     "answers" : [
       "Guitare acoustique et électrique",
       "Orgue et Saxophone",
@@ -1032,7 +1032,7 @@
     "right_answer" : 0
   },
           "maitre_gims" : {
-    "question" : "Avec combien de femmes est marié Maitre Gims?",
+    "question" : "Avec combien de femmes est actuellement marié Maitre Gims?",
     "answers" : [
       "1",
       "2",
@@ -1052,7 +1052,7 @@
     "right_answer" : 3
   },
           "solo" : {
-    "question" : "Quel solo de guitare a été plus beau solo de guitare de tout les temps?",
+    "question" : "Quel solo de guitare a été élu plus beau solo de guitare de tout les temps?",
     "answers" : [
       "Nothing else Matters de Métallica",
       "Valentine's Day de David Bowie",
@@ -1152,7 +1152,7 @@
     "right_answer" : 3
   },
     "mika" : {
-    "question" : "Qui dit beaucoup de choses a Moka dans sa chanson Elle me Dit?",
+    "question" : "Qui dit beaucoup de choses a Mika dans sa chanson Elle me Dit?",
     "answers" : [
       "Son père travesti",
       "Sa soeur",
