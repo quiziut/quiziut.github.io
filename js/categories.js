@@ -4,14 +4,6 @@ function rItems() {
   localStorage.clear()
 }
 
-var score_c = document.getElementById('score')
-var general_score = 0
-
-if(localStorage.getItem('general_score') == null) localStorage.setItem('general_score', general_score)
-else general_score = localStorage.getItem('general_score')
-
-score_c.innerHTML = general_score
-
 let video_request = fetch('./JSON_CONTENT/categories.json', {
 	method: 'GET',
   credentials: 'include'

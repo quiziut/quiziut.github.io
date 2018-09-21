@@ -49,8 +49,46 @@ header {
 #score {
 	padding: 20px;
 	border-radius: 5px;
-	background-color: #ecf0f1;
+	background-color: #2ecc71;
+	border-radius: 5px;
+	background-size: cover;
+	align-self: center;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	align-self: center;
 	font-size: 20px;
 	position: fixed;
-	right: 10px;
+	right: 20px;
+	
+/*	transition: background-color .2s;*/
+}
+
+#inscore {
+	align-self: center;
+	color: white;
+	font-weight: bolder;
+}
+
+#lastupdate {
+	text-align: center;
+	background-color: #c0392b;
+	font-size: 10px;
+	padding: 5px;
+	border-radius: 3px;
+	color: white;
+}
+
+@media screen and (orientation: portrait) {
+	.favicon {
+  		width: 200px;
+	}
+	
+	.quiz {
+		width: 300px;
+	}
+	
+	#score {
+		font-size: 30px;
+	}
 }

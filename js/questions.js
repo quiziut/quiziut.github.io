@@ -8,7 +8,8 @@ let toFetch = url.searchParams.get('c')
 
 var current = 0
 var score = 0
-var general_score = 0
+
+var passedQ = []
 
 function Timer(fn, t) {
     var timerObj = setInterval(fn, t)
@@ -36,19 +37,18 @@ function Timer(fn, t) {
 }
 
 function updateItems() {
-  localStorage.setItem(toFetch + '_question_number', current)
   localStorage.setItem(toFetch + '_score', score)
   localStorage.setItem('general_score', general_score)
 }
 
-if(localStorage.getItem(toFetch + '_question_number') == null) updateItems()
-else current = localStorage.getItem(toFetch + '_question_number')
-
 if(localStorage.getItem(toFetch + '_score') == null) updateItems()
-else score = localStorage.getItem(toFetch + '_score')
 
-if(localStorage.getItem('general_score') == null) updateItems()
-else general_score = localStorage.getItem('general_score')
+if(localStorage.getItem('general_score') == null) {
+	updateItems()
+}
+else {
+	general_score = localStorage.getItem('general_score')
+}
 
 window.onload = () => {
   request()
@@ -60,13 +60,28 @@ function clearWindow() {
   }
 }
 
+function chooseQuestion(questions) {
+	var keys = Object.keys(questions)
+	var choosen = Math.floor(Math.random() * (keys.length))
+	if(current != 0) {
+		for(var i = 0; i < passedQ.length; i++) {
+			if(choosen == passedQ[i]) {
+				return chooseQuestion(questions)
+			}
+		}
+	}
+	passedQ[current] = choosen
+	return choosen
+}
+
 function answerClicked(answer, rightOne) {
   if(answer == rightOne) {
 	  score++
 	  general_score++
   }
   current++
-  updateItems()
+	updateScore()
+	updateItems()
   clearWindow()
   cpt = originalCpt
   request()
@@ -88,12 +103,13 @@ var timer = new Timer(function() {
 function buildQuesion(questions) {
   var keys = Object.keys(questions)
   var answers_table = []
-  if(current < keys.length) {
+  if(current < 10) {
 	  setTimeout(() => {
 		cpt = originalCpt
 		timer.start()
 	  }, 1000)
-    var question_array = questions[keys[current]]
+	var question = chooseQuestion(questions)
+	var question_array = questions[keys[question]]
     var question = document.createElement('h2')
     question.classList.add('question')
     question.innerHTML = question_array['question']
@@ -113,7 +129,7 @@ function buildQuesion(questions) {
   } else {
     var endi = document.createElement('h2')
     endi.classList.add('question')
-    endi.innerHTML = 'Vous avez fini les questions pour l\'instant! Votre score actuel est de ' + Math.round(score / keys.length * 100) + '%'
+    endi.innerHTML = 'Votre score est de ' + score + ' / 10'
 
     var homeLink = document.createElement('a')
     homeLink.classList.add('homeLink')
