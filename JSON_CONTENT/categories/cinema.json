@@ -227,6 +227,26 @@
       "M le terrible",
       "Latyranie de M"
     ],
-    "right_answer" : 1
+    "right_answer" : 1  
+  },
+    "ami" : {
+    "question" : "Qui joue le personnage de Jamie, chasseuse de tête à New York, dans le film Sexe entre ami, sorti en 2011?",
+    "answers" : [
+      "Mila Kunis",
+      "Lisa Kudrow",
+      "Courtey Cox",
+      "Jennifer Aniston"
+    ],
+    "right_answer" : 0
+  },
+    "comedie" : {
+    "question" : "Quelle comédie de 2014 a pour personnages les officiers Schmidt et Jenko en couverture dans un lycée du coin?",
+    "answers" : [
+      "The Grand Budapest Hotel",
+      "Get Hard",
+      "Pitch Perfect 2",
+      "22 Jump Street"
+    ],
+    "right_answer" : 3
   }
 }

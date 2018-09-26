@@ -1,4 +1,4 @@
- {
+{
      "monde" : {
     "question" : "Qu’est ce que la mondialisation?",
     "answers" : [
@@ -99,7 +99,6 @@
     ],
     "right_answer" : 3
   },
-
  "omc" : {
     "question" : "Qu’est ce que l’OMC?",
     "answers" : [
@@ -109,8 +108,8 @@
       "L’office mondiale du cunilingus "
     ],
     "right_answer" : 1
-  }, 
-     "euro" : {
+}, 
+"euro" : {
     "question" : "En quelle année ont été mis en circulation les billets et pièces en euro?",
     "answers" : [
       "1998",
@@ -119,393 +118,384 @@
       "2002"
     ],
     "right_answer" : 3
-  },
-     
+},
 "bce" : {
-    "question" : "Quel est le rôle de la BCE?",
-    "answers" : [
-      "Elle a le monopole de la monnaie fiduciaire ",
-      "Elle contrôle les dépenses de la Commission européenne ",
-      "Elle convertit les devises en euros ",
-      "Elle aide les pays endétté"
-    ],
-    "right_answer" : 0
-    },
+    "question" : "Quel est le rôle de la BCE?",
+    "answers" : [
+        "Elle a le monopole de la monnaie fiduciaire ",
+        "Elle contrôle les dépenses de la Commission européenne ",
+        "Elle convertit les devises en euros ",
+        "Elle aide les pays endétté"
+    ],
+    "right_answer" : 0
+},
 "monnai" : {
-    "question" : "Quel agrégat monétaire représente la monnaie au sens strict?",
-    "answers" : [
-      "M1",
-      "M2",
-      "M3",
-      "M4"
-    ],
-    "right_answer" : 0
-    },
+    "question" : "Quel agrégat monétaire représente la monnaie au sens strict?",
+    "answers" : [
+        "M1",
+        "M2",
+        "M3",
+        "M4"
+    ],
+    "right_answer" : 0
+},
 "decloisonement" : {
-    "question" : " Qu'est ce que le décloisonnement?",
-    "answers" : [
-      "C’est le désengagement des banques en tant que prêteurs",
-      "C’est l’unification des règles imposées aux intermédiaires financiers ",
-      "C’est la privatisation des banques ",
-      "C’est l’abandon du contrôle des changes "
-    ],
-    "right_answer" : 0
-    },
-
+    "question" : " Qu'est ce que le décloisonnement?",
+    "answers" : [
+        "C’est le désengagement des banques en tant que prêteurs",
+        "C’est l’unification des règles imposées aux intermédiaires financiers ",
+        "C’est la privatisation des banques ",
+        "C’est l’abandon du contrôle des changes "
+    ],
+    "right_answer" : 0
+},
 "credit" : {
-    "question" : "Quelle est la durée du crédit à moyen terme?",
-    "answers" : [
-      "Moins de 2 ans ",
-      "De 2 à 3 ans ",
-      "De 2 à 7 ans ",
-      "De 4 à 8 ans "
-    ],
-    "right_answer" : 2
-    },
+    "question" : "Quelle est la durée du crédit à moyen terme?",
+    "answers" : [
+        "Moins de 2 ans ",
+        "De 2 à 3 ans ",
+        "De 2 à 7 ans ",
+        "De 4 à 8 ans "
+    ],
+    "right_answer" : 2
+},
 "prix" : {
-    "question" : "Le prix d'équilibre se réalise par...",
-    "answers" : [
-      " Le point d'intersection sur un graphique des courbes du profit et de la demande",
-      " Le point d'intersection sur un graphique des courbes de l'offre et de la demande",
-      " Le point d'intersection sur un graphique des courbes de prix et de l’offre ",
-      " Le point d'intersection sur un graphique des courbes du profit et du prix "
-    ],
-    "right_answer" : 1
-    },
-
+    "question" : "Le prix d'équilibre se réalise par...",
+    "answers" : [
+        " Le point d'intersection sur un graphique des courbes du profit et de la demande",
+        " Le point d'intersection sur un graphique des courbes de l'offre et de la demande",
+        " Le point d'intersection sur un graphique des courbes de prix et de l’offre ",
+        " Le point d'intersection sur un graphique des courbes du profit et du prix "
+    ],
+    "right_answer" : 1
+},
 "monopole" : {
-    "question" : "Sur un marché, le monopole correspond à quelle situation?",
-    "answers" : [
-      "Quelques vendeurs et un acheteur unique  ",
-      "Quelques acheteurs et beaucoup de vendeurs",
-      "Quelques vendeurs et beaucoup d’acheteurs ",
-      "Un grand nombre d'acheteurs et un seul vendeur "
-    ],
-    "right_answer" : 3
-    },
+    "question" : "Sur un marché, le monopole correspond à quelle situation?",
+    "answers" : [
+        "Quelques vendeurs et un acheteur unique  ",
+        "Quelques acheteurs et beaucoup de vendeurs",
+        "Quelques vendeurs et beaucoup d’acheteurs ",
+        "Un grand nombre d'acheteurs et un seul vendeur "
+    ],
+    "right_answer" : 3
+},
 "etat" : {
-    "question" : "Quelle est la conception libérale du rôle de l'Etat?",
-    "answers" : [
-      "Etat fiscaliste ",
-      "Etat providence ",
-      "Etat socialiste ",
-      "Etat gendarme "
-    ],
-    "right_answer" : 3
-    },
+    "question" : "Quelle est la conception libérale du rôle de l'Etat?",
+    "answers" : [
+        "Etat fiscaliste ",
+        "Etat providence ",
+        "Etat socialiste ",
+        "Etat gendarme "
+    ],
+    "right_answer" : 3
+},
 "theorie" : {
-    "question" : "Comment se nomme la théorie d'Adam Smith?",
-    "answers" : [
-      "Théorie des avantages comparatifs  ",
-      "Théorie des avantages absolus ",
-      "Théorie du protectionnisme éducatif ",
-      "Théorie ou modèle HOS "
-    ],
-    "right_answer" : 1
-    },
+    "question" : "Comment se nomme la théorie d'Adam Smith?",
+    "answers" : [
+        "Théorie des avantages comparatifs  ",
+        "Théorie des avantages absolus ",
+        "Théorie du protectionnisme éducatif ",
+        "Théorie ou modèle HOS "
+    ],
+    "right_answer" : 1
+},
 "production" : {
-    "question" : "Complétez la phrase : chaque pays a intérêt à se spécialiser dans la production des biens pour lesquels ses coûts de production sont plus faibles qu’à l’étranger, c’est à dire qu’il présente pour cette production un...",
-    "answers" : [
-      "...avantage de Léontief ",
-      "...avantage absolu ",
-      "...avantage comparatif",
-      "...avantage homogène "
-    ],
-    "right_answer" : 1
-    },
-
+    "question" : "Complétez la phrase : chaque pays a intérêt à se spécialiser dans la production des biens pour lesquels ses coûts de production sont plus faibles qu’à l’étranger, c’est à dire qu’il présente pour cette production un...",
+    "answers" : [
+        "...avantage de Léontief ",
+        "...avantage absolu ",
+        "...avantage comparatif",
+        "...avantage homogène "
+    ],
+    "right_answer" : 1
+},
 "echange" : {
-    "question" : " Les échanges intra-branches portent sur...",
-    "answers" : [
-      "...les produits régionaux ",
-      "...les produits différents ",
-      "...les produits spécialisés ",
-      "...les produits similaires "
-    ],
-    "right_answer" : 3
-    },
+    "question" : " Les échanges intra-branches portent sur...",
+    "answers" : [
+        "...les produits régionaux ",
+        "...les produits différents ",
+        "...les produits spécialisés ",
+        "...les produits similaires "
+    ],
+    "right_answer" : 3
+},
 "exportation" : {
-    "question" : "Comment calcule t-on le taux d’exportation?",
-    "answers" : [
-      "exportations / importations ",
-      "importations / exportations ",
-      "exportations / PIB ",
-      "importations / PIB "
-    ],
-    "right_answer" : 2
-    },
+    "question" : "Comment calcule t-on le taux d’exportation?",
+    "answers" : [
+        "exportations / importations ",
+        "importations / exportations ",
+        "exportations / PIB ",
+        "importations / PIB "
+    ],
+    "right_answer" : 2
+},
 "finacement" : {
-    "question" : "Laquelle de ces propositions est exacte?",
-    "answers" : [
-      "capacité ou besoin de financement = solde des transactions courantes + solde du compte de capital ",
-      "capacité ou besoin de financement = revenu disponible brut + prestations sociales ",
-      "capacité ou besoin de financement = épargne brute + solde des transactions courantes",
-      "capacité ou besoin de financement = solde du compte de capital – cotisations sociales "
-    ],
-    "right_answer" : 0
-    },
+    "question" : "Laquelle de ces propositions est exacte?",
+    "answers" : [
+        "capacité ou besoin de financement = solde des transactions courantes + solde du compte de capital ",
+        "capacité ou besoin de financement = revenu disponible brut + prestations sociales ",
+        "capacité ou besoin de financement = épargne brute + solde des transactions courantes",
+        "capacité ou besoin de financement = solde du compte de capital – cotisations sociales "
+    ],
+    "right_answer" : 0
+},
 "gatt" : {
-    "question" : "Quelle est la signification de GATT?",
-    "answers" : [
-      " Accord général sur les tarifs douaniers et le commerce ",
-      " Association générale sur les taxes et tarifs ",
-      " Accord général sur les dépenses des Etats ",
-      " Groupement des pays en accord sur les taxes et tarifs pétroliers"
-    ],
-    "right_answer" : 0
-    },
+    "question" : "Quelle est la signification de GATT?",
+    "answers" : [
+        " Accord général sur les tarifs douaniers et le commerce ",
+        " Association générale sur les taxes et tarifs ",
+        " Accord général sur les dépenses des Etats ",
+        " Groupement des pays en accord sur les taxes et tarifs pétroliers"
+    ],
+    "right_answer" : 0
+},
      "besoin" : {
-    "question" : " Qu’est ce qu’un besoin primaire ?",
-    "answers" : [
-      "Un produit agricole",
-      "Un service",
-      "Un sentiment de privation nécessaire à la survie",
-      "Une épargne"
-    ],
-    "right_answer" : 2
-    },
-
-
-
+         "question" : " Qu’est ce qu’un besoin primaire ?",
+         "answers" : [
+             "Un produit agricole",
+             "Un service",
+             "Un sentiment de privation nécessaire à la survie",
+             "Une épargne"
+         ],
+         "right_answer" : 2
+     },
 "secteur" : {
-    "question" : "Laquelle ou lesquelles de ces propositions n’est (ne sont) pas un secteur institutionnel?",
-    "answers" : [
-      "Les ménages",
-      "Le reste du monde",
-      "La S.N.C.F.",
-      "Les agrégats"
-    ],
-    "right_answer" : 3
-    },
+    "question" : "Laquelle ou lesquelles de ces propositions n’est (ne sont) pas un secteur institutionnel?",
+    "answers" : [
+        "Les ménages",
+        "Le reste du monde",
+        "La S.N.C.F.",
+        "Les agrégats"
+    ],
+    "right_answer" : 3
+},
 "activite" : {
-    "question" : "Les trois grandes fonctions de l'activité économique sont?",
-    "answers" : [
-      "Emploi, consommation, inflation",
-      "Consommation, investissement, épargne",
-      "Production, répartition, consommation.",
-      "Stabilité des prix, commerce extérieur, concurrence"
-    ],
-    "right_answer" : 2
-    },
+    "question" : "Les trois grandes fonctions de l'activité économique sont?",
+    "answers" : [
+        "Emploi, consommation, inflation",
+        "Consommation, investissement, épargne",
+        "Production, répartition, consommation.",
+        "Stabilité des prix, commerce extérieur, concurrence"
+    ],
+    "right_answer" : 2
+},
 "budget" : {
-    "question" : "Qui affirme que la mise en déficit du budget de l’Etat permet de fournir des ressources nouvelles qui augmentent la demande effective ?",
-    "answers" : [
-      "Smith",
-      "Ricardo",
-      "Keynes",
-      "Marx"
-    ],
-    "right_answer" : 2
-    },
+    "question" : "Qui affirme que la mise en déficit du budget de l’Etat permet de fournir des ressources nouvelles qui augmentent la demande effective ?",
+    "answers" : [
+        "Smith",
+        "Ricardo",
+        "Keynes",
+        "Marx"
+    ],
+    "right_answer" : 2
+},
 "flux" : {
-    "question" : "Quelle affirmation parait exacte?",
-    "answers" : [
-      " Le versement des intérêts correspond à un flux réel",
-      " L’offre de travail est un flux réel ",
-      " Les dépenses de consommation correspondent à un flux réel",
-      " Le versement du salaire est un flux monétaire"
-    ],
-    "right_answer" : 3
-    },
+    "question" : "Quelle affirmation parait exacte?",
+    "answers" : [
+        " Le versement des intérêts correspond à un flux réel",
+        " L’offre de travail est un flux réel ",
+        " Les dépenses de consommation correspondent à un flux réel",
+        " Le versement du salaire est un flux monétaire"
+    ],
+    "right_answer" : 3
+},
 "pib" : {
-    "question" : " Le Produit National Brut est égal à la ?",
-    "answers" : [
-      "Somme des Chiffres d'affaires + Droits de douane + TVA",
-      "Somme des valeurs ajoutées + Droits de douane + Importations Revenus reçus du reste du monde – Exportations + Importations",
-      "Somme des valeurs ajoutées + Droits de douane + Importations",
-      "PIB + revenus reçus du reste du monde – revenus versés au reste du monde"
-    ],
-    "right_answer" : 3
-    },
+    "question" : " Le Produit National Brut est égal à la ?",
+    "answers" : [
+        "Somme des Chiffres d'affaires + Droits de douane + TVA",
+        "Somme des valeurs ajoutées + Droits de douane + Importations Revenus reçus du reste du monde – Exportations + Importations",
+        "Somme des valeurs ajoutées + Droits de douane + Importations",
+        "PIB + revenus reçus du reste du monde – revenus versés au reste du monde"
+    ],
+    "right_answer" : 3
+},
 "population" : {
-    "question" : "Qu’est ce que la population active ?",
-    "answers" : [
-      "Elle comprend l’ensemble des personnes ayant un emploi rémunéré et les chômeurs",
-      "Elle comprend l’ensemble des personnes en âge de travailler",
-      "Elle comprend l’ensemble des personnes qui ont un emploi rémunéré ",
-      "Elle comprend l’ensemble des personnes en stage et les apprentis"
-    ],
-    "right_answer" : 0
-    },
+    "question" : "Qu’est ce que la population active ?",
+    "answers" : [
+        "Elle comprend l’ensemble des personnes ayant un emploi rémunéré et les chômeurs",
+        "Elle comprend l’ensemble des personnes en âge de travailler",
+        "Elle comprend l’ensemble des personnes qui ont un emploi rémunéré ",
+        "Elle comprend l’ensemble des personnes en stage et les apprentis"
+    ],
+    "right_answer" : 0
+},
 "chomeur" : {
-    "question" : "Un chômeur est...",
-    "answers" : [
-      "...une personne dépourvue d’emploi",
-      "...à la recherche d’un emploi ",
-      "...disponible pour travailler",
-      "...une personne qui n’a pas travaillée au moins 100 heures l’année précédente"
-    ],
-    "right_answer" : 1
-    },
+    "question" : "Un chômeur est...",
+    "answers" : [
+        "...une personne dépourvue d’emploi","...à la recherche d’un emploi ",
+        "...disponible pour travailler",
+        "...une personne qui n’a pas travaillée au moins 100 heures l’année précédente"
+    ],
+    "right_answer" : 1
+},
 "capital" : {
-    "question" : "Comment peut-on augmenter le capital humain?",
-    "answers" : [
-      "Par la formation continue et initiale ",
-      "Par la taille de l’entreprise",
-      "Par la productivité du travail ",
-      "Par les facteurs de production utilisés"
-    ],
-    "right_answer" : 0
-    },
+    "question" : "Comment peut-on augmenter le capital humain?",
+    "answers" : [
+        "Par la formation continue et initiale ",
+        "Par la taille de l’entreprise",
+        "Par la productivité du travail ",
+        "Par les facteurs de production utilisés"
+    ],
+    "right_answer" : 0
+},
 "gains" : {
-    "question" : "Qu’est ce qu’un gain de productivité?",
-    "answers" : [
-      "C’est une baisse des prix pour le consommateur",
-      "C’est produire plus avec autant de facteurs de production",
-      "C’est produire plus avec plus de facteurs de production",
-      "C’est une augmentation des dividendes"
-    ],
-    "right_answer" : 1
-    },
+    "question" : "Qu’est ce qu’un gain de productivité?",
+    "answers" : [
+        "C’est une baisse des prix pour le consommateur",
+        "C’est produire plus avec autant de facteurs de production",
+        "C’est produire plus avec plus de facteurs de production",
+        "C’est une augmentation des dividendes"
+    ],
+    "right_answer" : 1
+},
 "secteur" : {
-    "question" : "Qu’est ce qu’un secteur?",
-    "answers" : [
-      "C’est un agent économique qui a activité de production ",
-      "C’est l’ensemble des unités de production qui produisent la même catégorie de biens et services",
-      "C’est  un ensemble d’entreprises qui ont la même activité principale ",
-      "C’est l’ensemble des activités de transformation des matières premières en biens"
-    ],
-    "right_answer" : 2
-    },
+    "question" : "Qu’est ce qu’un secteur?",
+    "answers" : [
+        "C’est un agent économique qui a activité de production ",
+        "C’est l’ensemble des unités de production qui produisent la même catégorie de biens et services",
+        "C’est  un ensemble d’entreprises qui ont la même activité principale ",
+        "C’est l’ensemble des activités de transformation des matières premières en biens"
+    ],
+    "right_answer" : 2
+},
 "epargne" : {
-    "question" : "Laquelle de ces propositions est exacte ?",
-    "answers" : [
-      "épargne brute = revenu disponible brut – consommation finale",
-      "épargne brute = revenu disponible brut + prestations sociales ",
-      "épargne brute = revenu disponible brut + impôts – cotisations sociales",
-      "épargne brute = revenu disponible brut + revenus primaires  – cotisations sociales "
-    ],
-    "right_answer" : 0
-    },
-     "economiste" : {
-    "question" : "Quel économiste classique a élaboré la loi des débouchés  ?",
-    "answers" : [
-      "Karl Marx",
-      "Jean-Baptiste Say",
-      "Charles Fourier",
-      "Adam Smith"
-    ],
-    "right_answer" : 1
-    },
-"boursier" : {
-    "question" : "Quel est le plus vieil indice boursier au monde ?",
-    "answers" : [
-      "Le Dow Jones ",
-      "Le Nasdaq ",
-      "Le Dax",
-      "Le Footsie "
-    ],
-    "right_answer" : 0
-    },
-"omc" : {
-    "question" : "Dans quelle ville siège l’Organisation mondiale du commerce, OMC ??",
-    "answers" : [
-      "New York",
-      "Washington",
-      "Genève",
-      "Zurich "
-    ],
-    "right_answer" : 2
-    },
-"impot" : {
-    "question" : "Quel économiste libéral a affirmé l’idée que « trop d'impôt tue l'impôt »?",
-    "answers" : [
-      "Arthur Laffer ",
-      "Maurice Allais",
-      "John Galbraith",
-      "Simon Kuznets"
-    ],
-    "right_answer" : 0
-    },
-"sociétés" : {
-    "question" : "Combien de sociétés sont cotées dans le Dow Jones?",
-    "answers" : [
-      "30",
-      "50",
-      "200",
-      "500"
-    ],
-    "right_answer" : 0
-    },
-"reunions" : {
-    "question" : "Que réunit le Club de Paris depuis 1956?",
-    "answers" : [
-      "Des créanciers",
-      "Des présidents",
-      "Des prix Nobel ",
-      "Des entrepreneurs"
-    ],
-    "right_answer" : 0
-    },
-"accords" : {
-    "question" : "Quelle zone géographique est concernée par les accords de CARICOM?",
-    "answers" : [
-      "L’Europe centrale",
-      "L’Asie centrale",
-      "Les Caraïbes ",
-      "Les pays scandinaves "
-    ],
-    "right_answer" : 2
-    },
-"cee" : {
-    "question" : "En quelle année a été signé le Traité de Rome instituant la Communauté Economique Européenne?",
-    "answers" : [
-      "1948 ",
-      "1957",
-      "1963",
-      "1986"
-    ],
-    "right_answer" : 1
-    },
+    "question" : "Laquelle de ces propositions est exacte ?",
+    "answers" : [
+        "épargne brute = revenu disponible brut – consommation finale",
+        "épargne brute = revenu disponible brut + prestations sociales ",
+        "épargne brute = revenu disponible brut + impôts – cotisations sociales",
+        "épargne brute = revenu disponible brut + revenus primaires  – cotisations sociales "
+    ],
+    "right_answer" : 0
+},
 "economiste" : {
-    "question" : "Quel économiste américain a obtenu le prix Nobel d’Économie en 2001?",
-    "answers" : [
-      "Kenneth Arrow",
-      "Joseph Stiglitz",
-      "James Buchanan ",
-      "Manuel Johnson "
-    ],
-    "right_answer" : 1
-    },
+    "question" : "Quel économiste classique a élaboré la loi des débouchés  ?",
+    "answers" : [
+        "Karl Marx",
+        "Jean-Baptiste Say",
+        "Charles Fourier",
+        "Adam Smith"
+    ],
+    "right_answer" : 1
+},
+"boursier" : {
+    "question" : "Quel est le plus vieil indice boursier au monde ?",
+    "answers" : [
+        "Le Dow Jones ",
+        "Le Nasdaq ",
+        "Le Dax",
+        "Le Footsie "
+    ],
+    "right_answer" : 0
+},
+"omc" : {
+    "question" : "Dans quelle ville siège l’Organisation mondiale du commerce, OMC ??",
+    "answers" : [
+        "New York",
+        "Washington",
+        "Genève",
+        "Zurich "
+    ],
+    "right_answer" : 2
+},
+"impot" : {
+    "question" : "Quel économiste libéral a affirmé l’idée que trop d'impôt tue l'impôt?",
+    "answers" : [
+        "Arthur Laffer ",
+        "Maurice Allais",
+        "John Galbraith",
+        "Simon Kuznets"
+    ],
+    "right_answer" : 0
+},
+"sociétés" : {
+    "question" : "Combien de sociétés sont cotées dans le Dow Jones?",
+    "answers" : [
+        "30",
+        "50",
+        "200",
+        "500"
+    ],
+    "right_answer" : 0
+},
+"reunions" : {
+    "question" : "Que réunit le Club de Paris depuis 1956?",
+    "answers" : [
+        "Des créanciers",
+        "Des présidents",
+        "Des prix Nobel ",
+        "Des entrepreneurs"
+    ],
+    "right_answer" : 0
+},
+"accords" : {
+    "question" : "Quelle zone géographique est concernée par les accords de CARICOM?",
+    "answers" : [
+        "L’Europe centrale",
+        "L’Asie centrale",
+        "Les Caraïbes ",
+        "Les pays scandinaves "
+    ],
+    "right_answer" : 2
+},
+"cee" : {
+    "question" : "En quelle année a été signé le Traité de Rome instituant la Communauté Economique Européenne?",
+    "answers" : [
+        "1948 ",
+        "1957",
+        "1963",
+        "1986"
+    ],
+    "right_answer" : 1
+},
+"economiste" : {
+    "question" : "Quel économiste américain a obtenu le prix Nobel d’Économie en 2001?",
+    "answers" : [
+        "Kenneth Arrow",
+        "Joseph Stiglitz",
+        "James Buchanan ",
+        "Manuel Johnson "
+    ],
+    "right_answer" : 1
+},
 "banque" : {
-    "question" : "Dans quelle ville siège la Banque centrale européenne?",
-    "answers" : [
-      "Strasbourg",
-      "Bruxelles ",
-      "Luxembourg ",
-      "Francfort"
-    ],
-    "right_answer" : 3
-    },
+    "question" : "Dans quelle ville siège la Banque centrale européenne?",
+    "answers" : [
+        "Strasbourg",
+        "Bruxelles ",
+        "Luxembourg ",
+        "Francfort"
+    ],
+    "right_answer" : 3
+},
 "monnaie" : {
-    "question" : "Quelle monnaie circule en Afrique du Sud?",
-    "answers" : [
-      "La livre africaine",
-      "Le franc CFA",
-      "Le rand",
-      "Le riyal "
-    ],
-    "right_answer" : 3
-    },
+    "question" : "Quelle monnaie circule en Afrique du Sud?",
+    "answers" : [
+        "La livre africaine",
+        "Le franc CFA",
+        "Le rand",
+        "Le riyal "
+    ],
+    "right_answer" : 3
+},
 "euro" : {
-    "question" : "En quelle année sommes-nous passés définitivement à l’euro en France?",
-    "answers" : [
-      "1998",
-      "2000",
-      "2002",
-      "1999"
-    ],
-    "right_answer" : 3
-    },
+    "question" : "En quelle année sommes-nous passés définitivement à l’euro en France?",
+    "answers" : [
+        "1998",
+        "2000",
+        "2002",
+        "1999"
+    ],
+    "right_answer" : 3
+},
 "europe" : {
-    "question" : "Combien de pièces de monnaie de l’euro circulent au sein de l’Europe?",
-    "answers" : [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "right_answer" : 3
-    }
-
+    "question" : "Combien de pièces de monnaie de l’euro circulent au sein de l’Europe?",
+    "answers" : [
+        "5",
+        "6",
+        "7",
+        "8"
+    ],
+    "right_answer" : 3
+}
 }

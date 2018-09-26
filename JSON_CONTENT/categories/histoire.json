@@ -1,433 +1,425 @@
 {
-    "cesar" :{
-"question" : "En quelle année jules césar est-il né ?",
-
-"answers " : [
-"En 80 av. J-c",
-"En 110 av. j-c ",
-"En 90 av. j-c",
-"En 100 av. j-c"
-],
-"right answer": 3
+"cesar" : {
+    "question" : "En quelle année Jules César est-il né ?",
+    "answers" : [
+        "En 80 av. J-c",
+        "En 110 av. j-c ",
+        "En 90 av. j-c",
+        "En 100 av. j-c"
+    ],
+    "right_answer": 3
 },
-"charlemagne" :{
-"question" : "Quelle était le surnom de charlemagne ?",
- "answers" : [
- "Barbe ensanglantée",
-"Barbe noire",
-"Barbe fleurie",
-"Barbe sage"
-],
-"right answer" : 2
+"charlemagne" : {
+    "question" : "Quelle était le surnom de charlemagne ?",
+    "answers" : [
+        "Barbe ensanglantée",
+        "Barbe noire",
+        "Barbe fleurie",
+        "Barbe sage"
+    ],
+    "right_answer" : 2
 },
-"joconde" :{
-"question" : "Qui fut l’auteur du vol de  la Joconde ?",
-"answers" : [
-"Ernesto dantez",
-"Guillaume appolinaire",
-"Pierro alebreder",
-"Vincenzo peruggia"
-],
-"right answer": 3
+"joconde" : {
+    "question" : "Qui fut l’auteur du vol de  la Joconde ?",
+    "answers" : [
+        "Ernesto dantez",
+        "Guillaume appolinaire",
+        "Pierro alebreder",
+        "Vincenzo peruggia"
+    ],
+    "right_answer" : 3
 },
-"tigre" :{
-"question" : "A qui est attribué le surnom  le tigre ?",
-"answers" : [
-"Clemenceau",
-"De gaulle", 
-"Pompidou",
-"Eisenhower"
-],
-"right answer" : 0
+"tigre" : {
+    "question" : "A qui est attribué le surnom  le tigre ?",
+    "answers" : [
+        "Clemenceau",
+        "De gaulle", 
+        "Pompidou",
+        "Eisenhower"
+    ],
+    "right_answer" : 0
 },
-"hitler" :{
-"question" : "En quelle date fut mort adolf hitler?",
-"answers" : [
+"hitler" : {
+"question" : "En quelle date fut mort adolf hitler?",
+"answers" : [
 "30 février 1945",
 "30 mars 1945",
 "30 avril 1945",
 "30 mai 1945"
 ],
-"right answer" : 2
+"right_answer" : 2
 },
 
 "moulin" :{
-"question" : "Qui est l’assassin de Jean Moulin ?",
-"answers" : [
+"question" : "Qui est l’assassin de Jean Moulin ?",
+"answers" : [
 "Klaus Barbie",
 "Le général Himmler",
 "Un anonyme",
 "Eva Péron"
 ],
-"right answer" : 0
+"right_answer" : 0
 },
 
 "mondiale" :{
-"question" : "Comment se nomme l’aviation allemande durant la seconde guerre mondiale ?",
-"answers" : [
+"question" : "Comment se nomme l’aviation allemande durant la seconde guerre mondiale ?",
+"answers" : [
 "La reich aviazon",
 "La wehrmacht",
 "La lutwaffe",
 "La krietz"
 ],
-"right answer" : 2
+"right_answer" : 2
 },
 
 "lyon" :{
-"question" : "Au temps de l’Empire Romain comment s’appelait la ville de Lyon ?",
-"answers" : [
+"question" : "Au temps de l’Empire Romain comment s’appelait la ville de Lyon ?",
+"answers" : [
 "Lugdunum",
 "Lyonarium",
 "Lesterum",
 "Lavorum"
 ],
-"right answer" : 0
+"right_answer" : 0
 },
 
 "asile" :{
-"question" : "Quel célèbre peintre s’est coupé l’oreille dans un asile ?",
-"answers" : [
+"question" : "Quel célèbre peintre s’est coupé l’oreille dans un asile ?",
+"answers" : [
 "Pablo Picasso",
-"Arthur Rimbaud", 
+"Arthur Rimbaud",
 "Leonard de Vinci",
 "Vincent Van Gogh"
 ],
-"right answer": 3
+"right_answer" : 3
 },
 
 "maastricht" :{
-"question" : "A quelle date fut signé le traité de Maastricht ?",
-"answers" : [
+"question" : "A quelle date fut signé le traité de Maastricht ?",
+"answers" : [
 "7 février 1992",
 "8 octobre 1992",
-"22 novembre 1992", 
-"16 décembre 1992»
+"22 novembre 1992",
+"16 décembre 1992"
 ],
-"right answer" : 0
+"right_answer" : 0
 },
 
 "fleure" :{
-"question" : "Quelle fleure a donné son nom à la révolution portugaise contre la dictature militaire  en 1974 ?",
-"answers" : [
+"question" : "Quelle fleure a donné son nom à la révolution portugaise contre la dictature militaire  en 1974 ?",
+"answers" : [
 "L’œillet",
 "La rose",
 "Le lilas",
 "Le lys"
 ],
-"right answer" : 0
+"right_answer" : 0
 },
 
 "pays" :{
-"question" : "En 1957, combien de pays ont signé le traité de Rome créant la communauté européenne ?",
-"answers" : [
+"question" : "En 1957, combien de pays ont signé le traité de Rome créant la communauté européenne ?",
+"answers" : [
 "10", 
 "7",
 "6",
 "9"
 ],
-"right answer" : 2
+"right_answer" : 2
 },
 
 "hitler" :{
-"question" : "Quelles étaient les initiales du parti de Hitler ?",
-"answers" : [
+"question" : "Quelles étaient les initiales du parti de Hitler ?",
+"answers" : [
 "N.S.D.A.P",
 "K.N.D",
 "D.N.P",
 "N.A.Z.I"
 ],
-"right answer" : 0
+"right_answer" : 0
 },
 
 "le_feu" :{
-"question" : "Depuis combien de temps les hommes ont découvert le feu ?",
-"answers" : [
-"500 000 ans", 
+"question" : "Depuis combien de temps les hommes ont découvert le feu ?",
+"answers" : [
+"500 000 ans",
 "400 000 ans",
 "300 000 ans",
- "4 000 000 ans"
+"4 000 000 ans"
 ],
-"right answer" : 1
+"right_answer" : 1
 },
-
 "chasser" :{
-"question" : "Qu’utilisaient les premiers hommes pour chasser ?",
-"answers" : [
+"question" : "Qu’utilisaient les premiers hommes pour chasser ?",
+"answers" : [
 "Bâtons et filets",
 "Pierres et filets",
- "Bâtons et pierres",
+"Bâtons et pierres",
 "Bâtons et armes à feu"
 ],
-"right answer" : 2
+"right_answer" : 2
 },
-
 "islam" :{
-"question" : "Que signifie le mot islam ?",
-"answers" : [
+"question" : "Que signifie le mot islam ?",
+"answers" : [
 "Adoration",
 "Soumission",
 "Paix",
 "Amour"
 ],
-"right answer" : 1
+"right_answer" : 1
 },
 
 "invente" :{
-"question" : "Dans quel pays la machine à imprimer a été inventé ?",
-"answers" : [
+"question" : "Dans quel pays la machine à imprimer a été inventé ?",
+"answers" : [
 "France",
 "Allemagne",
 "Grèce",
 "Espagne"
 ],
-"right answer" : 1
+"right_answer" : 1
 },
 "spatiale" :{
-"question" : "Comment s’appelait la toute première navette spatiale ?",
-"answers" : [
+"question" : "Comment s’appelait la toute première navette spatiale ?",
+"answers" : [
 "Columbia",
 "Arviette",
 "Culumbio",
 "tuilumbia"
 ],
-"right answer" : 1
+"right_answer" : 1
 },
 
 "telephone" :{
-"question" : "En quelle année le téléphone a-t-il été créé ?",
-"answers" : [
+"question" : "En quelle année le téléphone a-t-il été créé ?",
+"answers" : [
 "1876",
 "1745",
 "1856",
 "1563"
 ],
-"right answer" : 1
+"right_answer" : 1
 },
 
 "roi" :{
-"question" : "Quand françois 1erdevient-il roi?",
-"answers" : [
+"question" : "Quand françois 1erdevient-il roi?",
+"answers" : [
 "1615",
 "1515",
 "1550",
 "1560"
 ],
-"right answer" : 1
+"right_answer" : 1
 },
 
 "est" :{
-"question" : "Le 18ème siècle est appelé ?",
-"answers" : [
+"question" : "Le 18ème siècle est appelé ?",
+"answers" : [
 "Le siècle du chocolat",
 "Le siècle des lumières",
 "Le siècle des rois",
 "Le siècle des libertins"
 ],
-"right answer" : 1
+"right_answer" : 1
 },
 "revolution" :{
-"question" : "Quand commence la révolution francaise ?",
-"answers" : [
+"question" : "Quand commence la révolution francaise ?",
+"answers" : [
 "14 juillet 1787",
 "14 juillet 1789",
 "14 juillet 1786",
 "14 juillet 1889"
 ],
-"right answer" : 1
+"right_answer" : 1
 },
-
 "eiffel" :{
-"question" : "Où est né Gustave Eiffel ?",
-"answers" : [
+"question" : "Où est né Gustave Eiffel ?",
+"answers" : [
 "Nancy",
 "Bordeaux",
 "Dijon",
 "Paris"
 ],
-"right answer" : 2
+"right_answer" : 2
 },
-
 "mandela" :{
-"question" : "En quelle année Mandela est-il né ?",
-"answers" : [
+"question" : "En quelle année Mandela est-il né ?",
+"answers" : [
 "En 1980",
 "En 1935",
 "En 1918",
 "En 2000"
 ],
-"right answer" : 2
+"right_answer" : 2
 },
-
 "prison" :{
-"question" : "Combien de temps Mandela est-il resté en prison ?", 
-"answers" : [
-"17 ans", 
+"question" : "Combien de temps Mandela est-il resté en prison ?", 
+"answers" : [
+"17 ans",
 "1 mois",
 "27 ans",
 "10 ans"
 ],
-"right answer" : 2
+"right_answer" : 2
 },
-
 "monde" :{
-"question" : "Quel pays a gagné la coupe du monde de rugby en 1995 ?",
-"answers" : [
-"Etats-Unis" ,
+"question" : "Quel pays a gagné la coupe du monde de rugby en 1995 ?",
+"answers" : [
+"Etats-Unis",
 "Afrique du sud",
 "Allemagne",
 "France" 
 ],
-"right answer" : 1
+"right_answer" : 1
 },
 
 "belge" :{
-"question" : "Quelle est l’unique colonie belge ?",
-"answers" : [
+"question" : "Quelle est l’unique colonie belge ?",
+"answers" : [
 "Le Congo",
 "Le Gabon",
 "Le Bénin",
 "Le Congo Brazzaville"
 ],
-"right answer" : 0
+"right_answer" : 0
 },
 
 "portugal" :{
-"question" : "Avec l’Angola, quelle est l’autre grande colonie portugaise ?",
-"answers" : [
+"question" : "Avec l’Angola, quelle est l’autre grande colonie portugaise ?",
+"answers" : [
 "La Sierra Leone",
 "Le Mozambique",
 "Le Rio de Oro", 
 "Le Cameroun"
 ],
-"right answer" : 1
+"right_answer" : 1
 },
 
 "louis" :{
-"question" : "Comment s’appelait la femme de louis XVI ?",
-"answers" : [
+"question" : "Comment s’appelait la femme de louis XVI ?",
+"answers" : [
 "Marie-Joel",
 "Marie-Antoinette",
 "Marie-Thérèse",
 "Marie-Louise"
 ],
-"right answer" : 1
+"right_answer" : 1
 },
 
 "marseille" :{
-"question" : "Qui est le premier à chanter la Marseillaise?",
-"answers" : [
+"question" : "Qui est le premier à chanter la Marseillaise?",
+"answers" : [
 "Un enfant",
 "Un soldat",
 "Un vieil homme",
 "Le roi de France" 
 ],
-"right answer" : 0
+"right_answer" : 0
 },
 
 "regime" :{
-"question" : "Comment s’appelait le régime sous Louis XVI ?",
-"answers" : [
+"question" : "Comment s’appelait le régime sous Louis XVI ?",
+"answers" : [
 "Le capitalisme",
 "La constitution",
 "La monarchie",
 "La république" 
 ],
-"right answer" : 2
+"right_answer" : 2
 },
 
 "terre" :{
-"question" : "Quelles sont les premières choses apparues sur terre?",
-"answers" : [
+"question" : "Quelles sont les premières choses apparues sur terre?",
+"answers" : [
 "Les Hommes",
 "Les micro-organismes",
 "Les dinosaures",
 "Les plantes"
 ],
-"right answer" : 1
+"right_answer" : 1
 },
 
 "egypte" :{
-"question" : "Quelle est la plus grande pyramide d’egypte ?",
-"answers" : [
+"question" : "Quelle est la plus grande pyramide d’egypte ?",
+"answers" : [
 "La pyramide de Khéops",
 "La pyramide du Caire",
 "La pyramide de Djéser",
 "La pyramide de Khéphren"
 ],
-"right answer" : 0
+"right_answer" : 0
 },
 "waterloo" :{
-"question" : "Quand a eu lieu la bataille de Waterloo ?",
-"answers" : [
+"question" : "Quand a eu lieu la bataille de Waterloo ?",
+"answers" : [
 "Le 18 juin 1823",
 "Le 20 juin 1815",
 "Le 18 juin 1815", 
 "Le 18 juin 1830"
 ],
-"right answer" : 2
+"right_answer" : 2
 },
 "bataille" :{
-"question" : "Dans quel pays s’est déroulé la bataille de Waterloo ?",
-"answers" : [
+"question" : "Dans quel pays s’est déroulé la bataille de Waterloo ?",
+"answers" : [
 "En Belgique", 
 "Au Luxembourg",
 "En Allemagne",
 "En Espagne"
 ],
-"right answer" : 0
+"right_answer" : 0
 },
 
 "experts" :{
-"question" : "A partir de quand les arabes deviennent-ils des experts en cartographie maritimes?",
-"answers" : [
+"question" : "A partir de quand les arabes deviennent-ils des experts en cartographie maritimes?",
+"answers" : [
 "VIe siècle",
 "IXe siècle",
 "XIIIe siècle",
 "VIIe siècle"
 ],
-"right answer" : 1
+"right_answer" : 1
 },
 
 "president" :{
-"question" : "De quel pays Robert Mugabe était-il président de 1987 à 2017 ?",
-"answers" : [
+"question" : "De quel pays Robert Mugabe était-il président de 1987 à 2017 ?",
+"answers" : [
 "Mali",
 "Zimbabwe",
 "Congo",
 "Benin"
 ],
-"right answer" : 1
+"right_answer" : 1
 },
 "franklin" :{
-"question" : "Combien de fois Franklin Roosevelt a-t-il était réélu ?",
-"answers" : [
+"question" : "Combien de fois Franklin Roosevelt a-t-il était réélu ?",
+"answers" : [
 "2",
 "5",
 "4",
-"1",
+"1"
 ],
-"right answer" : 2
+"right_answer" : 2
 },
-
 "premier" :{
-"question" : "Qui était le premier président américain ?",
-"answers" : [
+"question" : "Qui était le premier président américain ?",
+"answers" : [
 "Thomas Jefferson",
 "Barack Obama",
 "George Washington", 
-"John Adams",
+"John Adams"
 ],
-"right answer" : 2
+"right_answer" : 2
 },
 
 "morte" :{
-"question" : "En quelle année Marie Curie est-elle morte ?",
-"answers" : [
+"question" : "En quelle année Marie Curie est-elle morte ?",
+"answers" : [
 "1934",
 "1990",
 "1939",
 "1945"
 ],
-"right answer" : 0
+"right_answer" : 0
 }
 }

@@ -18,7 +18,6 @@
       "Michel Platini, en étant français puis quatari puis koweitien"
     ],
     "right_answer" : 0
-<<<<<<< HEAD
   },
     
     "volley" : {
@@ -542,7 +541,7 @@
     "right_answer" : 1
     },
     "devinette" : {
-    "question" : "⦁	Qu'est-ce qui fait 11 cm de diamètre pour un poids de 110 grammes?",
+    "question" : "Qu'est-ce qui fait 11 cm de diamètre pour un poids de 110 grammes?",
     "answers" : [
       "Un palet de hockey",
       "Une quille de bowling",
@@ -861,8 +860,8 @@
     ],
     "right_answer" : 2
     },
-    "L'espagnol Alberto Contador est champion dans quel sport" : {
-    "question" : "?",
+    "cyclism": {
+    "question" : "L'espagnol Alberto Contador est champion dans quel sport",
     "answers" : [
       "Corrida",
       "Tennis",
@@ -951,8 +950,5 @@
     ],
     "right_answer" : 0
     }
-=======
-  }
->>>>>>> 311d398a15152a6db54a9ed8adc6bcaf019f623d
 }
 
