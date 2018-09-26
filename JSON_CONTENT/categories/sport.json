@@ -1,14 +1,15 @@
 {
-  "age_taig_khris" : {
-    "question" : "Quel était l'âge de Taïg Khris au 08/08/2018?",
-    "answers" : [
-      "37 ans",
-      "51 ans",
-      "43 ans",
-      "31 ans"
-    ],
-    "right_answer" : 2
+    "age_taig_khris" : {
+      "question" : "Quel était l'âge de Taïg Khris au 08/08/2018?",
+      "answers" : [
+        "37 ans",
+        "51 ans",
+        "43 ans",
+        "31 ans"
+      ],
+      "right_answer" : 2
   },
+ 
     "parisi" : {
     "question" : "Lequel de ces athlètes a remporté 3 championnat du monde et 3 jeux Olympiques avec 3 nationalités différentes?",
     "answers" : [
@@ -940,7 +941,7 @@
     ],
     "right_answer" : 0
     },
-    "ski" : {
+ "ski" : {
     "question" : "Laquelle de ces propositions ne désigne pas une des six disciplines du ski acrobatique?",
     "answers" : [
       "Le combiné",
@@ -949,10 +950,5 @@
       "Les bosses"
     ],
     "right_answer" : 0
-<<<<<<< HEAD
     }
-=======
-    }  }
->>>>>>> 4bd1ba024102ab53ec294b6917ea9c7c79fb3f23
 }
-
