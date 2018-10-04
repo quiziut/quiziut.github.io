@@ -359,16 +359,6 @@
         ],
         "right_answer" : 0
     },
-    "cesar" : {
-        "question" : "En quelle année les césar du cinéma ont-ils été créés ?",
-        "answers" : [
-            "1950",
-            "1968",
-            "1976",
-            "1988"
-        ],
-        "right answer" : 2
-    },
     "cyrano" : {
         "question" : "Avec Cyrano de Bergerac, quel film a obtenu 10 césar ?",
         "answers" : [
