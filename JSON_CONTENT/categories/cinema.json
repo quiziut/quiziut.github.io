@@ -248,5 +248,215 @@
       "22 Jump Street"
     ],
     "right_answer" : 3
-  }
+  },
+    "james" : {
+        "question" : " Quel est le cocktail préféré de James Bond  ?",
+        "answers" : [
+            "Le Cosmopolitan ",
+            "Le mojito ",
+            "La Vodka-Martini ",
+            "Le caiperine"
+        ],
+        "right_answer" : 2
+    },
+    "leonardo" : {
+        "question" : " Dans quel film Leonardo DiCaprio n'a-t-il pas joué  ?",
+        "answers" : [
+            "La memoire dans le peau",
+            "Plage",
+            "Aviator",
+            "Le loup de Wall street"
+        ],
+        "right_answer" : 0
+    },
+    "ocscar" : {
+        "question" : " Lequel de ses films a reçu le plus d'Oscars ?",
+        "answers" : [
+            " Le Seigneur des Anneaux : Le Retour du Roi ",
+            " La môme ",
+            " Autant en emporte le vent ",
+            "The boss"
+        ],
+        "right_answer" : 0
+    },
+    "shrek" : {
+        "question" : " Quelle actrice américaine a prêté sa voix à la Princesse Fiona, dans le dessin animé Shrek ?",
+        "answers" : [
+            " Julia Roberts ",
+            " Whoopy Goldberg ",
+            " Cameron Diaz ",
+            "Omar Sy"
+        ],
+        "right_answer" : 2
+    },
+    "musee" : {
+        "question" : " Qui est la muse de Woody Allen ?",
+        "answers" : [
+            " Reese Witherspoon ",
+            " Scarlett Johansson ",
+            " Penelope Cruz ",
+            "Daniel Auteil"
+        ],
+        "right_answer" : 0
+    },
+    "heros" : {
+        "question" : " Dans lequel de ces films le héros n'est-il pas un être humain ?",
+        "answers" : [
+            " La marche de l'Empereur ",
+            " La Momie 3 : La tombe de l'empereur ",
+            " Le dernier Empereur ",
+            "Love addict"
+        ],
+        "right_answer" : 0
+    },
+    "riche" : {
+        "question" : " Qui est l'acteur le mieux payé au monde?",
+        "answers" : [
+            " Johnny Depp ",
+            " Morgan Freeman ",
+            " Russel Crowe ",
+            "Vous"
+        ],
+        "right_answer" : 0;3
+    },
+    "serie" : {
+        "question" : " Quelle série n'a pas été adaptée au cinéma ?",
+        "answers" : [
+            " Sex & the city ",
+            " Starsky et Huch ",
+            " Arnold et Willy ",
+            "H"
+        ],
+        "right_answer" : 2
+    },
+    "musique" : {
+        "question" : " Qui a composé la musique du film Amélie Poulain ?",
+        "answers" : [
+            " Claudette Colbert ",
+            " Simone Signoret ",
+            " Marion Cotillard ",
+            "Marwa Loud"
+        ],
+        "right_answer" : 0
+    },
+    "festival" : {
+        "question" : " Quel film des Nuls se déroule pendant le Festival de Cannes ?",
+        "answers" : [
+            " La cité de la Peur ",
+            " La cité des anges ",
+            " Ma cité va craquer ",
+            "La coriaca"
+        ],
+        "right_answer" : 0
+    },
+    "citation" : {
+        "question" : " Quand on attaque, l'Empire contre-attaque ». De quel film est tirée cette réplique ?",
+        "answers" : [
+            " Astérix et Obélix : Mission Cléopâtre ",
+            " Le déclin de l'Empire Américain ",
+            " Star Wars : Episode V. L'empire contre-attaque ",
+            "Taxi X"
+        ],
+        "right_answer" : 0
+    },
+    "cesar" : {
+        "question" : "En quelle année les césar du cinéma ont-ils été créés ?",
+        "answers" : [
+            "1950",
+            "1968",
+            "1976",
+            "1988"
+        ],
+        "right answer" : 2
+    },
+    "cyrano" : {
+        "question" : "Avec Cyrano de Bergerac, quel film a obtenu 10 césar ?",
+        "answers" : [
+            "Le vieux fusil",
+            "Le dernier métro",
+            "Nous irons tous au paradis",
+            "Que la fête commence
+        ],
+        "right answer" : 0
+    },
+    "jurassic" : {
+        "question" : "Qui a réalisé le film Jurassic Park ?",
+        "answers" : [
+            "Ridley scott",
+            "Steven spielberg",
+            "Robert Zemeckis",
+            "Tim burton"
+        ],
+        "right answer" : 1
+    },
+    "Romeo" : {
+        "question" : "Qui a réalisé le film Romeo et Juliette ?",
+        "answers" : [
+            "Wes craven",
+            "Woody allen",
+            "Sean penn",
+            "Baz luhrmann"
+        ],
+        "right anwer" : 3
+    },
+    "tuer" : {
+        "question" : "Dans quel film la petite Mathilda suit-elle un célèbre tueur à gage ?",
+        "answers" : [
+            "Kika",
+            "Léon",
+            "Frenzy",
+            "My own private Idaho"
+        ],
+        "right anwer" : 1
+    },
+    "danny" : {
+        "question" :  "Quel est acteur principal du film la plage réalisé par danny boyle ?",
+        "answers" : [
+            "Leonardo di caprio",
+            "Johnny depp",
+            "Robert de niro",
+            "George Clooney"
+        ],
+        "right answer" : 0
+    },
+    "mechant" : {
+        "question" : "Quel méchant est à l’affiche du film Vendredi 13 ?",
+        "answers" : [
+            "Jason Bourne",
+            "Jason Voorhees", 
+            "Jason Donovan",
+            "Jason White"
+        ],
+        "right answer" : 1
+    },
+    "woody" : {
+        "question" : "Quel long-métrage de Woody Allen est sorti en 1998 ?",
+        "answers" : [
+            "Scoop",
+            "Celebrity",
+            "Accord et désaccords",
+            "Match Point"
+        ],
+        "right answer" : 1
+    },
+    "aki" : {
+        "question" :  "De quel pays européen est originaire le cinéaste Aki Kaurismaki ?",
+        "answers" : [
+            "Islande",
+            "Pays Bas",
+            "Lituanie",
+            "Finlande"
+        ],
+        "right answer" : 3
+    },
+    "film" : {
+        "question" : "Quel film a obtenu le plus grand nombre d’entrée en France ?",
+        "answers" : [
+            "Blanche-neige et les sept nains",
+            "Avatar",
+            "Titanic",
+            "Bienvenue chez les ch’tis",
+        ],
+        "right aswer": 2
+    }
 }
